@@ -1,0 +1,77 @@
+{
+  "slug": "loving-kindness-meditation",
+  "name": "Loving-Kindness Meditation",
+  "tagline": "Warm up your heart by wishing yourself and others well.",
+  "origin": {
+    "psychologist": "Buddhist origin; clinical adaptation by Sharon Salzberg",
+    "tradition": "Mindfulness / Compassion training",
+    "year": 1995,
+    "source": "Metta (loving-kindness) tradition; Salzberg, Lovingkindness (1995)"
+  },
+  "emotions": [
+    "loneliness",
+    "resentment",
+    "self-criticism",
+    "disconnection"
+  ],
+  "situations": [
+    "Feeling cut off from others",
+    "Hardened by resentment or bitterness",
+    "Being harsh with yourself",
+    "Wanting to feel more warmth and connection"
+  ],
+  "category": "Mindfulness",
+  "duration": "10–15 minutes",
+  "difficulty": "beginner",
+  "summary": "Loving-Kindness Meditation (metta) is the practice of silently offering goodwill — first to yourself, then outward to others, even difficult people. You repeat simple phrases like 'May you be happy, may you be safe' while letting the warmth grow. Over time it measurably increases positive emotion and feelings of connection.",
+  "howItWorks": "We can deliberately cultivate warmth the way we cultivate any habit. By repeatedly generating goodwill toward yourself and progressively wider circles of people, loving-kindness practice strengthens the neural and emotional patterns of care and connection while softening hostility and self-criticism. Research shows it builds positive emotions over time, which in turn broadens social connection and well-being. Including difficult people gently loosens resentment.",
+  "steps": [
+    {
+      "instruction": "Sit comfortably. Bring to mind the feeling of being cared for."
+    },
+    {
+      "instruction": "Offer the phrases to yourself: 'May I be happy. May I be healthy. May I be safe. May I live with ease.'",
+      "mantra": "May I be happy and at ease."
+    },
+    {
+      "instruction": "Extend the same wishes to someone you love, then to a neutral person."
+    },
+    {
+      "instruction": "If you're willing, extend them to a difficult person, then to all beings.",
+      "note": "Start small with the difficult person; don't force it."
+    }
+  ],
+  "whenToUse": [
+    "When you feel disconnected or lonely",
+    "To soften resentment toward someone",
+    "When self-criticism is loud",
+    "Building a baseline of warmth over weeks"
+  ],
+  "whenNotToUse": [
+    "If directing kindness at yourself brings up strong distress, start with a loved one",
+    "To bypass or 'spiritually skip over' legitimate anger",
+    "As pressure to forgive someone before you're ready"
+  ],
+  "tips": [
+    "Use phrases that feel sincere to you — adapt the wording",
+    "Lead with a loved one if self-directed kindness is hard at first",
+    "Consistency matters more than length",
+    "Let the warmth be felt, not just recited"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "Loving-kindness and compassion meditation have meta-analytic support for increasing positive emotions and reducing self-criticism and some symptoms of depression and anxiety.",
+    "citations": [
+      "Salzberg, S. (1995). Lovingkindness. Shambhala.",
+      "Galante, J. et al. (2014). Loving-kindness meditation effects on well-being: a meta-analysis. JCCP."
+    ]
+  },
+  "relatedTools": [
+    "self-compassion-break",
+    "active-love",
+    "body-scan"
+  ],
+  "pairsWith": [
+    "self-compassion-break"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "body-scan",
+  "name": "Body Scan",
+  "tagline": "Move attention slowly through the body to land in the present.",
+  "origin": {
+    "psychologist": "Jon Kabat-Zinn",
+    "tradition": "Mindfulness-Based Stress Reduction (MBSR)",
+    "year": 1979,
+    "source": "Full Catastrophe Living (Kabat-Zinn, 1990); MBSR program (1979)"
+  },
+  "emotions": [
+    "stress",
+    "tension",
+    "restlessness",
+    "disconnection"
+  ],
+  "situations": [
+    "Wired and can't settle",
+    "Disconnected from your body",
+    "Winding down for sleep",
+    "Building a steady mindfulness practice"
+  ],
+  "category": "Mindfulness",
+  "duration": "10–30 minutes",
+  "difficulty": "beginner",
+  "summary": "The Body Scan is a foundational mindfulness practice: you move your attention slowly through the body, part by part, noticing sensations without trying to change them. It anchors a restless mind in direct physical experience and is a cornerstone of Mindfulness-Based Stress Reduction. It also doubles as a gentle way into sleep.",
+  "howItWorks": "Stress and rumination keep attention trapped in thought and pull us out of the present. The body scan retrains attention onto direct sensory experience, which is always happening now, building the capacity to observe sensation (including discomfort) without reacting. This non-reactive awareness lowers physiological arousal and, practiced over time, changes how you relate to stress, pain, and difficult emotions. It's one of the most studied mindfulness techniques.",
+  "steps": [
+    {
+      "instruction": "Lie down or sit comfortably. Take a few slow breaths."
+    },
+    {
+      "instruction": "Bring attention to your feet. Notice whatever sensations are there — warmth, pressure, tingling, or nothing.",
+      "note": "You're noticing, not changing anything."
+    },
+    {
+      "instruction": "Slowly move attention up through legs, torso, arms, neck, and face, pausing at each region."
+    },
+    {
+      "instruction": "When the mind wanders, gently notice and return to where you left off.",
+      "mantra": "Just noticing, part by part."
+    }
+  ],
+  "whenToUse": [
+    "When you're wired and can't settle",
+    "Feeling disconnected from your body",
+    "Winding down before sleep",
+    "As a regular mindfulness practice"
+  ],
+  "whenNotToUse": [
+    "If focusing on the body triggers trauma, keep eyes open or focus externally",
+    "Don't worry about falling asleep — but it's not ideal when you need to stay alert",
+    "For acute panic, a faster somatic tool may help first"
+  ],
+  "tips": [
+    "There's no 'right' sensation to feel — even numbness counts",
+    "Wandering and returning is the practice, not a mistake",
+    "A guided audio helps a lot when starting",
+    "Go slower than feels necessary"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "The body scan is a core MBSR practice; mindfulness-based interventions have strong meta-analytic support for stress, anxiety, depression, and chronic pain.",
+    "citations": [
+      "Kabat-Zinn, J. (1990). Full Catastrophe Living. Delacorte.",
+      "Khoury, B. et al. (2013). Mindfulness-based therapy: a comprehensive meta-analysis. Clinical Psychology Review."
+    ]
+  },
+  "relatedTools": [
+    "progressive-muscle-relaxation",
+    "loving-kindness-meditation",
+    "rain"
+  ],
+  "pairsWith": [
+    "progressive-muscle-relaxation"
+  ]
+}

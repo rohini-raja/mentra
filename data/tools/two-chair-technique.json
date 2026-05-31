@@ -1,0 +1,77 @@
+{
+  "slug": "two-chair-technique",
+  "name": "Two-Chair Technique",
+  "tagline": "Give each side of an inner conflict its own voice and let them talk.",
+  "origin": {
+    "psychologist": "Fritz Perls",
+    "tradition": "Gestalt Therapy",
+    "year": 1969,
+    "source": "Gestalt Therapy (Perls, 1969); Greenberg's emotion-focused work"
+  },
+  "emotions": [
+    "inner-conflict",
+    "self-criticism",
+    "indecision",
+    "unresolved-feelings"
+  ],
+  "situations": [
+    "A harsh inner critic vs. a hurt part of you",
+    "Torn between two choices",
+    "Unfinished business with someone you can't talk to",
+    "Stuck in an internal tug-of-war"
+  ],
+  "category": "Existential",
+  "duration": "15–20 minutes",
+  "difficulty": "advanced",
+  "summary": "The Two-Chair Technique externalizes an inner conflict by giving each side a chair. You sit in one chair to speak as one part of yourself (say, your inner critic), then physically switch to the other chair to answer back as the other part. The literal dialogue surfaces feelings and resolutions that stay hidden when it's all in your head.",
+  "howItWorks": "Internal conflicts and self-criticism often run as a tangled, looping monologue that never resolves. By physically separating the two sides into different chairs and speaking each aloud, you make the conflict concrete and give each part a genuine voice and a chance to be heard. This emotion-focused method, validated in research by Leslie Greenberg, helps soften a harsh critic, integrate split-off feelings, and reach resolution that abstract thinking can't.",
+  "steps": [
+    {
+      "instruction": "Set up two chairs facing each other. Decide which part sits in each (e.g. the critic and the criticized)."
+    },
+    {
+      "instruction": "Sit in the first chair and speak that part aloud, fully and honestly."
+    },
+    {
+      "instruction": "Physically move to the other chair and respond as the other part. Let it answer back.",
+      "note": "Actually switch seats — the movement matters."
+    },
+    {
+      "instruction": "Keep switching as the dialogue unfolds, until something softens or shifts.",
+      "mantra": "Let both parts be heard."
+    }
+  ],
+  "whenToUse": [
+    "When a harsh inner critic battles a hurt part",
+    "Torn between two choices",
+    "Unfinished business with someone unavailable",
+    "Stuck in a repetitive internal argument"
+  ],
+  "whenNotToUse": [
+    "For trauma or abuse dialogues without a professional present",
+    "If it intensifies distress rather than resolving it",
+    "When you need stabilization rather than deep emotional work"
+  ],
+  "tips": [
+    "Speak aloud and actually change seats — embodiment is the active ingredient",
+    "Let each part be fully honest before switching",
+    "Privacy helps you commit without self-consciousness",
+    "If it gets overwhelming, pause and ground"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Two-chair work is central to Gestalt and emotion-focused therapy; controlled studies (notably by Greenberg) support chair techniques for resolving inner conflict and self-criticism.",
+    "citations": [
+      "Perls, F. (1969). Gestalt Therapy Verbatim. Real People Press.",
+      "Greenberg, L.S. (2011). Emotion-Focused Therapy. APA."
+    ]
+  },
+  "relatedTools": [
+    "letter-writing",
+    "downward-arrow",
+    "self-compassion-break"
+  ],
+  "pairsWith": [
+    "letter-writing"
+  ]
+}

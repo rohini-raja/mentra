@@ -1,0 +1,76 @@
+{
+  "slug": "fast",
+  "name": "FAST",
+  "tagline": "Say what you need while keeping your self-respect intact.",
+  "origin": {
+    "psychologist": "Marsha Linehan",
+    "tradition": "Dialectical Behavior Therapy (DBT)",
+    "year": 1993,
+    "source": "DBT Skills Training — Interpersonal Effectiveness (Linehan, 1993; 2015)"
+  },
+  "emotions": [
+    "insecurity",
+    "guilt",
+    "people-pleasing",
+    "resentment"
+  ],
+  "situations": [
+    "Tempted to apologize for having a need",
+    "About to cave just to keep the peace",
+    "Saying no without over-explaining",
+    "Wanting to act in line with your values under pressure"
+  ],
+  "category": "Relational",
+  "duration": "during a conversation",
+  "difficulty": "intermediate",
+  "summary": "FAST is DBT's skill for protecting your self-respect in an interaction: be Fair, no excessive Apologies, Stick to your values, and be Truthful. Where DEAR MAN gets the objective and GIVE protects the relationship, FAST protects your relationship with yourself. It's the antidote to walking away feeling like you sold yourself out.",
+  "howItWorks": "People often win an argument or keep the peace at the cost of their own integrity — over-apologizing, abandoning a value, or bending the truth to be liked. FAST keeps self-respect in the equation: fairness to both yourself and the other person, dropping the reflexive apologies that signal you're in the wrong for existing, holding the line on what matters to you, and staying honest rather than exaggerating or playing helpless. You leave the conversation still respecting yourself.",
+  "steps": [
+    {
+      "instruction": "Fair: be fair to yourself and the other person — don't sacrifice your needs, and don't steamroll theirs."
+    },
+    {
+      "instruction": "No (excessive) Apologies: drop the reflexive 'sorry' for having a need or an opinion.",
+      "note": "Apologize for real wrongs, not for taking up space."
+    },
+    {
+      "instruction": "Stick to your values: don't abandon what matters to you just to be liked or to win.",
+      "mantra": "I can be kind and still keep my values."
+    },
+    {
+      "instruction": "Truthful: don't lie, exaggerate, or act helpless to get your way."
+    }
+  ],
+  "whenToUse": [
+    "When you tend to cave to keep the peace",
+    "When you over-apologize for having needs",
+    "Holding a boundary under pressure",
+    "Any time self-respect is on the line in a conversation"
+  ],
+  "whenNotToUse": [
+    "As rigidity that refuses all compromise — fairness cuts both ways",
+    "When a genuine apology is actually owed",
+    "With someone unsafe, where protecting yourself outranks the conversation"
+  ],
+  "tips": [
+    "Notice reflexive apologies and cut them",
+    "Decide your non-negotiable value before the conversation",
+    "Pair with DEAR MAN (objective) and GIVE (relationship) for the full set",
+    "Self-respect is the goal, not winning"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "FAST is a DBT interpersonal-effectiveness skill; DBT has strong meta-analytic and Cochrane-level support, and assertiveness training is well validated.",
+    "citations": [
+      "Linehan, M.M. (2015). DBT Skills Training Manual, 2nd ed. Guilford Press."
+    ]
+  },
+  "relatedTools": [
+    "dear-man",
+    "give",
+    "nonviolent-communication"
+  ],
+  "pairsWith": [
+    "dear-man"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "downward-arrow",
+  "name": "The Downward Arrow",
+  "tagline": "Follow a surface worry down to the core belief underneath it.",
+  "origin": {
+    "psychologist": "Aaron T. Beck",
+    "tradition": "Cognitive Behavioral Therapy (CBT)",
+    "year": 1979,
+    "source": "Cognitive Therapy (Beck et al., 1979); Burns (1980)"
+  },
+  "emotions": [
+    "anxiety",
+    "self-criticism",
+    "insecurity",
+    "shame"
+  ],
+  "situations": [
+    "A small worry feels weirdly huge",
+    "Wanting to understand why something hit so hard",
+    "Recurring fears that don't make surface sense",
+    "Digging beneath an anxious thought"
+  ],
+  "category": "Cognitive",
+  "duration": "10–15 minutes",
+  "difficulty": "advanced",
+  "summary": "The Downward Arrow uncovers the deep belief driving a surface worry. You take an upsetting thought and repeatedly ask, 'If that were true, what would it mean about me?' — following the chain down until you hit the core belief (like 'I'm unlovable' or 'I'm a failure'). Naming it is the first step to working with it.",
+  "howItWorks": "Surface thoughts ('they didn't text back') often carry disproportionate emotional weight because they're connected to deeper core beliefs about ourselves. The downward arrow traces that connection by repeatedly asking what the thought would mean, peeling back layers until the underlying belief is exposed. Once the core belief is conscious and explicit, it can be examined and challenged with other cognitive tools — whereas while it stays hidden it silently drives the reaction.",
+  "steps": [
+    {
+      "instruction": "Write the upsetting surface thought, e.g. 'My friend seemed distant today.'"
+    },
+    {
+      "instruction": "Ask: 'If that were true, what would it mean — or what would it say about me?'"
+    },
+    {
+      "instruction": "Take the answer and ask the same question again. Keep following the arrow down.",
+      "note": "Don't argue with the thoughts yet — just follow them."
+    },
+    {
+      "instruction": "Stop when you reach a core belief ('I'm unlovable', 'I'm not enough'). Name it plainly.",
+      "mantra": "What does this really mean to me?"
+    }
+  ],
+  "whenToUse": [
+    "When a small thing hits surprisingly hard",
+    "To understand a recurring fear",
+    "Mapping the belief beneath an anxious thought",
+    "Before challenging a core belief with other tools"
+  ],
+  "whenNotToUse": [
+    "When you're already distressed and need calming first, not digging",
+    "Without a way back up — always pair with a tool that challenges the belief",
+    "In trauma work without professional support"
+  ],
+  "tips": [
+    "Don't dispute the thoughts mid-descent; just follow them",
+    "The core belief is usually a short, absolute statement about you",
+    "Follow it with cognitive restructuring or self-compassion",
+    "Doing it in writing keeps you from looping"
+  ],
+  "evidence": {
+    "level": "clinical",
+    "summary": "The downward arrow is a standard CBT technique for identifying core beliefs; it underpins schema-level work, and CBT overall has strong meta-analytic support.",
+    "citations": [
+      "Burns, D.D. (1980). Feeling Good. William Morrow.",
+      "Beck, J.S. (2011). Cognitive Behavior Therapy: Basics and Beyond. Guilford Press."
+    ]
+  },
+  "relatedTools": [
+    "cognitive-restructuring",
+    "socratic-questioning",
+    "self-compassion-break"
+  ],
+  "pairsWith": [
+    "cognitive-restructuring"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "socratic-questioning",
+  "name": "Socratic Questioning",
+  "tagline": "Interrogate a distressing thought with fair, open questions.",
+  "origin": {
+    "psychologist": "Aaron T. Beck",
+    "tradition": "Cognitive Behavioral Therapy (CBT)",
+    "year": 1979,
+    "source": "Cognitive Therapy of Depression (Beck et al., 1979)"
+  },
+  "emotions": [
+    "anxiety",
+    "self-criticism",
+    "catastrophizing",
+    "rumination"
+  ],
+  "situations": [
+    "Believing a thought without questioning it",
+    "Stuck in black-and-white thinking",
+    "Wanting to examine a belief fairly",
+    "A harsh judgment you're treating as fact"
+  ],
+  "category": "Cognitive",
+  "duration": "10 minutes",
+  "difficulty": "intermediate",
+  "summary": "Socratic questioning examines a troubling thought through a series of open, curious questions rather than flat contradiction. Instead of telling yourself 'that's not true', you ask what the evidence is, what alternatives exist, and what you'd tell a friend. The thought loosens because you arrived at a fairer view yourself.",
+  "howItWorks": "Direct disputation ('stop thinking that') tends to backfire, but guided questioning leads you to re-evaluate a thought from the inside. By asking about evidence, alternative explanations, the realistic worst/best/likely outcomes, and the usefulness of the belief, you engage reflective reasoning that the certainty of distress had shut down. Because the new perspective is one you reasoned to yourself, it's far more convincing than a reassurance handed to you.",
+  "steps": [
+    {
+      "instruction": "Write the thought you want to examine."
+    },
+    {
+      "instruction": "Ask: What's the evidence for this? What's the evidence against it?"
+    },
+    {
+      "instruction": "Ask: Is there another way to see this? What would I tell a friend who thought it?"
+    },
+    {
+      "instruction": "Ask: What's the realistic (not worst-case) outcome, and is this thought helping me? Then restate a fairer thought.",
+      "mantra": "Is this true, and is it useful?"
+    }
+  ],
+  "whenToUse": [
+    "When you're treating a thought as undeniable fact",
+    "Stuck in all-or-nothing thinking",
+    "To examine a self-judgment fairly",
+    "Untangling an anxious or catastrophic belief"
+  ],
+  "whenNotToUse": [
+    "When the thought is accurate and calls for action, not questioning",
+    "As a way to invalidate genuine feelings",
+    "In acute crisis, where grounding comes first"
+  ],
+  "tips": [
+    "Stay genuinely curious, not prosecutorial",
+    "The 'what would I tell a friend?' question is especially powerful",
+    "Write answers down to see them clearly",
+    "Aim for a balanced conclusion, not forced positivity"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "Socratic questioning is a core method of cognitive therapy; CBT has strong meta-analytic support, and process research links Socratic dialogue to symptom improvement.",
+    "citations": [
+      "Beck, A.T. et al. (1979). Cognitive Therapy of Depression. Guilford Press.",
+      "Braun, J.D. et al. (2015). Therapist use of Socratic questioning predicts session-to-session symptom change. Behaviour Research and Therapy."
+    ]
+  },
+  "relatedTools": [
+    "cognitive-restructuring",
+    "downward-arrow",
+    "decatastrophizing"
+  ],
+  "pairsWith": [
+    "cognitive-restructuring"
+  ]
+}

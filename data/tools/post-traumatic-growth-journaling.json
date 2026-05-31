@@ -1,0 +1,76 @@
+{
+  "slug": "post-traumatic-growth-journaling",
+  "name": "Post-Traumatic Growth Journaling",
+  "tagline": "Make meaning from adversity through structured, honest writing.",
+  "origin": {
+    "psychologist": "Richard Tedeschi & Lawrence Calhoun",
+    "tradition": "Positive / Trauma Psychology",
+    "year": 1996,
+    "source": "Tedeschi & Calhoun (1996), Posttraumatic Growth"
+  },
+  "emotions": [
+    "grief",
+    "adversity",
+    "meaning-seeking",
+    "overwhelm"
+  ],
+  "situations": [
+    "Rebuilding after a hard chapter",
+    "Searching for meaning after adversity",
+    "Processing how an experience changed you",
+    "Wanting growth without minimizing the pain"
+  ],
+  "category": "Existential",
+  "duration": "20–30 minutes",
+  "difficulty": "advanced",
+  "summary": "Post-Traumatic Growth Journaling uses structured writing to explore how you've changed through adversity — not to deny the pain, but to notice the growth that can grow alongside it. Drawing on Tedeschi and Calhoun's research, it gently examines shifts in strength, relationships, priorities, and possibility that often emerge after hard times.",
+  "howItWorks": "Post-traumatic growth is the well-documented phenomenon of positive change arising from the struggle with adversity — not from the event itself, but from the effort to rebuild meaning afterward. Structured writing helps that process by organizing a disrupted life-narrative into something coherent, and by deliberately attending to the five domains where growth tends to appear: personal strength, deeper relationships, new possibilities, appreciation of life, and spiritual or existential change. Naming growth doesn't erase suffering; it lets meaning and pain coexist.",
+  "steps": [
+    {
+      "instruction": "Write honestly about the hard experience and how it affected you. Don't minimize the pain."
+    },
+    {
+      "instruction": "Reflect on personal strength: what did you discover you could endure or do?"
+    },
+    {
+      "instruction": "Reflect on relationships and priorities: what or who matters more now, and what fell away?"
+    },
+    {
+      "instruction": "Reflect on new possibilities and appreciation: what paths or perspectives opened?",
+      "mantra": "Pain and growth can live side by side."
+    }
+  ],
+  "whenToUse": [
+    "Rebuilding after a difficult chapter",
+    "Searching for meaning after adversity",
+    "Processing how an experience changed you",
+    "Some time after the acute crisis has passed"
+  ],
+  "whenNotToUse": [
+    "In the acute aftermath of trauma — stabilize first",
+    "As pressure to 'find the silver lining' before you're ready",
+    "With unresolved PTSD, do this alongside professional support"
+  ],
+  "tips": [
+    "Don't rush growth — it emerges over time, not on demand",
+    "Honoring the pain first makes the growth genuine",
+    "Write freely; this is for you, not an audience",
+    "Revisit over weeks; perspective deepens"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Post-traumatic growth is a well-researched construct; expressive and meaning-focused writing has controlled-trial support for improving adjustment after adversity.",
+    "citations": [
+      "Tedeschi, R.G. & Calhoun, L.G. (1996). The Posttraumatic Growth Inventory. Journal of Traumatic Stress.",
+      "Pennebaker, J.W. (1997). Writing about emotional experiences as a therapeutic process. Psychological Science."
+    ]
+  },
+  "relatedTools": [
+    "meaning-making",
+    "letter-writing",
+    "continuing-bonds"
+  ],
+  "pairsWith": [
+    "meaning-making"
+  ]
+}

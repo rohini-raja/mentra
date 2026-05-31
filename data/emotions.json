@@ -3,60 +3,66 @@
     "id": "avoiding",
     "label": "Avoiding something",
     "description": "Putting off, procrastinating, can't make yourself do it",
-    "tools": ["reversal-of-desire", "committed-action", "implementation-intentions", "behavioral-activation"]
+    "tools": ["reversal-of-desire", "committed-action", "implementation-intentions", "behavioral-activation", "motivational-interviewing"]
   },
   {
     "id": "angry",
     "label": "Angry / resentful",
     "description": "Can't stop replaying what they did, want revenge, feel wronged",
-    "tools": ["active-love", "opposite-action", "nonviolent-communication", "repair-attempt"]
+    "tools": ["active-love", "opposite-action", "nonviolent-communication", "repair-attempt", "loving-kindness-meditation"]
   },
   {
     "id": "anxious",
     "label": "Anxious / worried",
     "description": "Racing thoughts, can't stop worrying, dread",
-    "tools": ["box-breathing", "physiological-sigh", "worry-time", "cognitive-restructuring", "5-4-3-2-1-grounding"]
+    "tools": ["box-breathing", "physiological-sigh", "worry-time", "cognitive-restructuring", "5-4-3-2-1-grounding", "socratic-questioning"]
   },
   {
     "id": "overwhelmed",
     "label": "Overwhelmed",
     "description": "Too much, can't think clearly, shutting down",
-    "tools": ["tipp", "stop-skill", "physiological-sigh", "box-breathing", "progressive-muscle-relaxation"]
+    "tools": ["tipp", "stop-skill", "physiological-sigh", "box-breathing", "progressive-muscle-relaxation", "body-scan"]
   },
   {
     "id": "negative-spiral",
     "label": "Stuck in negativity",
     "description": "Hopeless, nothing works, dark thoughts",
-    "tools": ["grateful-flow", "behavioral-activation", "self-compassion-break", "rain"]
+    "tools": ["grateful-flow", "behavioral-activation", "self-compassion-break", "rain", "leaves-on-a-stream"]
   },
   {
     "id": "low-willpower",
     "label": "Low willpower",
     "description": "Keep going back to bad habits, can't commit, give in every time",
-    "tools": ["jeopardy", "urge-surfing", "temptation-bundling", "implementation-intentions"]
+    "tools": ["jeopardy", "urge-surfing", "temptation-bundling", "implementation-intentions", "motivational-interviewing"]
   },
   {
     "id": "insecure",
     "label": "Insecure / can't speak up",
     "description": "Freeze up, feel judged, can't express yourself",
-    "tools": ["inner-authority", "self-compassion-break", "cognitive-defusion", "dear-man"]
+    "tools": ["inner-authority", "self-compassion-break", "cognitive-defusion", "dear-man", "thought-diffusion"]
   },
   {
     "id": "grieving",
     "label": "Grieving / lost",
     "description": "Loss, grief, don't know how to carry it",
-    "tools": ["continuing-bonds", "letter-writing", "rain", "meaning-making", "self-compassion-break"]
+    "tools": ["continuing-bonds", "letter-writing", "rain", "meaning-making", "self-compassion-break", "post-traumatic-growth-journaling"]
   },
   {
     "id": "relationship",
     "label": "Relationship conflict",
     "description": "Hard conversation, feeling unheard, need to say something difficult",
-    "tools": ["dear-man", "nonviolent-communication", "repair-attempt", "give", "active-love"]
+    "tools": ["dear-man", "nonviolent-communication", "repair-attempt", "give", "active-love", "fast"]
   },
   {
     "id": "panic",
     "label": "Panicking / can't breathe",
     "description": "Panic attack, feel out of control, need to calm down now",
     "tools": ["physiological-sigh", "cold-water-face-immersion", "5-4-3-2-1-grounding", "box-breathing"]
+  },
+  {
+    "id": "self-critical",
+    "label": "Self-critical",
+    "description": "Harsh inner voice, never good enough, beating yourself up",
+    "tools": ["self-compassion-break", "downward-arrow", "two-chair-technique", "cognitive-defusion", "loving-kindness-meditation"]
   }
 ]

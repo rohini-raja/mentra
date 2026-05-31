@@ -1,0 +1,77 @@
+{
+  "slug": "thought-diffusion",
+  "name": "Thought Diffusion",
+  "tagline": "Strip the power from a sticky thought with quick defusion tricks.",
+  "origin": {
+    "psychologist": "Russ Harris",
+    "tradition": "Acceptance & Commitment Therapy (ACT)",
+    "year": 2008,
+    "source": "The Happiness Trap (Harris, 2008)"
+  },
+  "emotions": [
+    "self-criticism",
+    "anxiety",
+    "insecurity",
+    "rumination"
+  ],
+  "situations": [
+    "A harsh phrase looping in your head",
+    "'I'm not good enough' on repeat",
+    "Hooked by a single sticky thought",
+    "Wanting fast distance from a thought"
+  ],
+  "category": "Cognitive",
+  "duration": "2–5 minutes",
+  "difficulty": "beginner",
+  "summary": "Thought Diffusion (Russ Harris's accessible take on ACT defusion) uses quick, almost playful techniques to drain a sticky thought of its power: prefacing it with 'I'm having the thought that…', saying it in a silly voice, or repeating a single word until it turns to noise. The thought stays, but its grip loosens.",
+  "howItWorks": "A fused thought feels like the truth and pulls your mood and behavior with it. Diffusion changes the thought's function rather than its content: when you label it as a thought, voice it absurdly, or repeat it until it becomes meaningless sound, you experience it as just words your mind produced. That shift reduces its believability and emotional charge, freeing you to act on what matters instead of obeying the thought.",
+  "steps": [
+    {
+      "instruction": "Catch the sticky thought, e.g. 'I'm going to mess this up.'"
+    },
+    {
+      "instruction": "Add a label: 'I'm noticing I'm having the thought that I'm going to mess this up.'",
+      "note": "Feel the small step back this creates."
+    },
+    {
+      "instruction": "Try a playful move: say it in a cartoon voice, sing it, or thank your mind for it.",
+      "mantra": "Thanks, mind."
+    },
+    {
+      "instruction": "Or pick the key word ('failure') and repeat it aloud for 30 seconds until it's just a sound."
+    }
+  ],
+  "whenToUse": [
+    "When a harsh phrase is looping",
+    "Hooked by 'I'm not good enough' or similar",
+    "When you want fast distance from a thought",
+    "Before doing something a thought is trying to stop"
+  ],
+  "whenNotToUse": [
+    "To mock yourself in a way that adds to the criticism",
+    "To dismiss thoughts giving accurate, useful information",
+    "When a problem needs solving, not just distance"
+  ],
+  "tips": [
+    "Playfulness is the point — it signals the thought isn't a threat",
+    "'I'm having the thought that…' is the simplest reliable move",
+    "Word repetition works surprisingly well on single harsh labels",
+    "Defusion reduces a thought's grip; it won't (and needn't) delete it"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Defusion techniques like these are core to ACT and supported by experimental studies; the word-repetition method in particular has direct empirical backing.",
+    "citations": [
+      "Harris, R. (2008). The Happiness Trap. Trumpeter.",
+      "Masuda, A. et al. (2004). Cognitive defusion and self-relevant negative thoughts. Behaviour Research and Therapy."
+    ]
+  },
+  "relatedTools": [
+    "cognitive-defusion",
+    "leaves-on-a-stream",
+    "inner-authority"
+  ],
+  "pairsWith": [
+    "cognitive-defusion"
+  ]
+}

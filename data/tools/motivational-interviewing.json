@@ -1,0 +1,77 @@
+{
+  "slug": "motivational-interviewing",
+  "name": "Motivational Interviewing",
+  "tagline": "Resolve your own ambivalence about change by listening to yourself.",
+  "origin": {
+    "psychologist": "William Miller & Stephen Rollnick",
+    "tradition": "Motivational Interviewing",
+    "year": 1991,
+    "source": "Motivational Interviewing (Miller & Rollnick, 1991)"
+  },
+  "emotions": [
+    "ambivalence",
+    "stuckness",
+    "low-motivation",
+    "resistance"
+  ],
+  "situations": [
+    "Torn between changing and staying the same",
+    "Knowing you 'should' change but not wanting to",
+    "Stuck in a habit you're of two minds about",
+    "Pressured by others and digging in"
+  ],
+  "category": "Relational",
+  "duration": "15–20 minutes",
+  "difficulty": "intermediate",
+  "summary": "Motivational Interviewing (MI) is a way of resolving the ambivalence that keeps us stuck. Rather than arguing yourself into change (which usually triggers resistance), you draw out your own reasons for it. Adapted as a self-reflection, MI helps you tip your internal balance toward change by listening to the part of you that already wants it.",
+  "howItWorks": "Ambivalence is normal: part of you wants to change and part wants to stay the same. Pushing hard on the 'should' side provokes the other side to defend the status quo — we believe what we hear ourselves argue for. MI works by deliberately eliciting and strengthening your own 'change talk' (your reasons, desire, and confidence for change) instead of the counter-arguments. Hearing yourself voice why and how you'd change builds genuine, self-generated motivation.",
+  "steps": [
+    {
+      "instruction": "Name the change you're ambivalent about, without judging either side."
+    },
+    {
+      "instruction": "List the good things about staying the same — honestly. Ambivalence is real."
+    },
+    {
+      "instruction": "Then ask yourself the change questions: Why might I want this? How would my life be better? What gives me confidence I could?",
+      "note": "Spend most of your time and energy here."
+    },
+    {
+      "instruction": "Rate your importance and confidence 0–10, then ask 'why that number and not lower?' to surface more change talk.",
+      "mantra": "What matters to me here?"
+    }
+  ],
+  "whenToUse": [
+    "When you're genuinely torn about a change",
+    "When 'shoulds' from others make you dig in",
+    "Stuck in a habit you're ambivalent about",
+    "Before committing to a hard behavior change"
+  ],
+  "whenNotToUse": [
+    "When you've already decided — then move to planning (implementation intentions)",
+    "To pressure or trick yourself past real reservations",
+    "For changes driven purely by others' expectations, not your values"
+  ],
+  "tips": [
+    "Spend more time on change talk than on the pros of staying",
+    "Ask 'why not a lower number?' to draw out your own reasons",
+    "Be curious, not coercive, with yourself",
+    "Follow a resolved 'yes' with a concrete first step"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "Motivational Interviewing has extensive meta-analytic support across addictions, health behavior change, and more; eliciting change talk predicts behavior change.",
+    "citations": [
+      "Miller, W.R. & Rollnick, S. (1991). Motivational Interviewing. Guilford Press.",
+      "Lundahl, B. et al. (2010). A meta-analysis of MI. Research on Social Work Practice."
+    ]
+  },
+  "relatedTools": [
+    "values-clarification",
+    "committed-action",
+    "implementation-intentions"
+  ],
+  "pairsWith": [
+    "values-clarification"
+  ]
+}

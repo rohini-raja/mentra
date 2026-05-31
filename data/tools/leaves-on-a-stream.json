@@ -1,0 +1,78 @@
+{
+  "slug": "leaves-on-a-stream",
+  "name": "Leaves on a Stream",
+  "tagline": "Watch your thoughts float by instead of getting carried off by them.",
+  "origin": {
+    "psychologist": "Steven C. Hayes",
+    "tradition": "Acceptance & Commitment Therapy (ACT)",
+    "year": 1999,
+    "source": "Acceptance and Commitment Therapy (Hayes, Strosahl & Wilson, 1999)"
+  },
+  "emotions": [
+    "rumination",
+    "anxiety",
+    "overthinking",
+    "intrusive-thoughts"
+  ],
+  "situations": [
+    "Mind won't stop churning",
+    "Caught up in a loop of thoughts",
+    "Intrusive thoughts grabbing your attention",
+    "Wanting distance from your own thinking"
+  ],
+  "category": "Cognitive",
+  "duration": "5–10 minutes",
+  "difficulty": "beginner",
+  "summary": "Leaves on a Stream is a classic ACT defusion exercise. You imagine a gentle stream and place each thought, as it arises, on a leaf and let it float away. You don't analyze, argue with, or push the thoughts — you simply watch them come and go. It builds the skill of observing thoughts rather than being fused with them.",
+  "howItWorks": "When we're 'fused' with thoughts, we experience them as reality and get swept along. Leaves on a Stream trains the observer stance: by repeatedly placing thoughts on leaves and watching them drift, you experience directly that thoughts are passing mental events, not commands or facts. The exercise also reveals how the mind keeps generating thoughts — including the thought 'I'm doing this wrong' — which you simply place on another leaf. Over time this loosens the grip of rumination.",
+  "steps": [
+    {
+      "instruction": "Close your eyes and picture a gently flowing stream with leaves drifting on the surface."
+    },
+    {
+      "instruction": "As each thought arises, place it on a leaf and watch it float downstream.",
+      "note": "Images, words, any thought — one per leaf."
+    },
+    {
+      "instruction": "Don't speed the stream up or force thoughts away. Let them come and go at their own pace.",
+      "mantra": "It's just a thought, floating by."
+    },
+    {
+      "instruction": "If you get carried off by a thought, gently notice that, and return to the stream.",
+      "note": "Noticing you drifted IS the skill — place 'I got distracted' on a leaf too."
+    }
+  ],
+  "whenToUse": [
+    "When your mind won't stop churning",
+    "Caught in a loop of rumination",
+    "When intrusive thoughts keep grabbing you",
+    "To practice unhooking from thoughts generally"
+  ],
+  "whenNotToUse": [
+    "As suppression — the goal is to watch thoughts, not banish them",
+    "If visualization heightens distress, try a simpler defusion phrase",
+    "During acute crisis, where grounding is the priority"
+  ],
+  "tips": [
+    "Getting distracted and returning is the practice, not a failure",
+    "Don't rush the stream or force anything",
+    "A guided audio helps when learning",
+    "Even a couple of minutes builds the observer muscle"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Leaves on a Stream is a widely used ACT defusion exercise; defusion is supported by experimental and component studies showing reduced believability and impact of negative thoughts.",
+    "citations": [
+      "Hayes, S.C., Strosahl, K. & Wilson, K.G. (1999). Acceptance and Commitment Therapy. Guilford Press.",
+      "Levin, M.E. et al. (2012). The impact of treatment components in ACT: a meta-analysis. Behavior Therapy."
+    ]
+  },
+  "relatedTools": [
+    "cognitive-defusion",
+    "thought-diffusion",
+    "body-scan"
+  ],
+  "pairsWith": [
+    "cognitive-defusion"
+  ]
+}
