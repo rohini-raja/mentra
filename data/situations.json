@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "cant-sleep",
+    "title": "Can't sleep",
+    "intro": "Your body is wired when it needs to wind down. These calm the nervous system and quiet a racing mind so sleep has room to arrive.",
+    "tools": ["progressive-muscle-relaxation", "box-breathing", "worry-time", "body-scan", "physiological-sigh"]
+  },
+  {
+    "slug": "panic-attack",
+    "title": "Having a panic attack",
+    "intro": "A panic attack feels dangerous but it will pass. These work on your body directly to bring the wave down — no thinking required.",
+    "tools": ["physiological-sigh", "cold-water-face-immersion", "5-4-3-2-1-grounding", "box-breathing", "ride-the-wave"]
+  },
+  {
+    "slug": "before-a-hard-conversation",
+    "title": "Before a hard conversation",
+    "intro": "Steady yourself, then say what you need clearly and kindly. Calm the body first, then use the words.",
+    "tools": ["box-breathing", "dear-man", "give", "nonviolent-communication", "inner-authority"]
+  },
+  {
+    "slug": "after-an-argument",
+    "title": "After an argument",
+    "intro": "When the heat fades and the replay starts, these help you settle, release the resentment, and decide how to reconnect.",
+    "tools": ["active-love", "ride-the-wave", "repair-attempt", "self-compassion-break", "opposite-action"]
+  },
+  {
+    "slug": "cant-start",
+    "title": "Can't make yourself start",
+    "intro": "The task is sitting there and you can't begin. These break the grip of avoidance and turn intention into a first small step.",
+    "tools": ["reversal-of-desire", "implementation-intentions", "committed-action", "behavioral-activation", "temptation-bundling"]
+  },
+  {
+    "slug": "spiraling",
+    "title": "Spiraling in negative thoughts",
+    "intro": "When the mind keeps pulling toward the worst, these help you step back from the thoughts and shift the spiral.",
+    "tools": ["grateful-flow", "cognitive-defusion", "decatastrophizing", "cognitive-restructuring", "self-compassion-break"]
+  },
+  {
+    "slug": "grieving",
+    "title": "Grieving a loss",
+    "intro": "There's no fixing grief, only carrying it. These offer gentle, research-based ways to hold the loss and stay connected.",
+    "tools": ["continuing-bonds", "letter-writing", "rain", "meaning-making", "self-compassion-break"]
+  }
+]

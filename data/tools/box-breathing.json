@@ -68,5 +68,30 @@
     "physiological-sigh",
     "progressive-muscle-relaxation",
     "5-4-3-2-1-grounding"
-  ]
+  ],
+  "breathPattern": {
+    "cycles": 6,
+    "phases": [
+      {
+        "label": "Breathe in",
+        "seconds": 4,
+        "type": "in"
+      },
+      {
+        "label": "Hold",
+        "seconds": 4,
+        "type": "hold-full"
+      },
+      {
+        "label": "Breathe out",
+        "seconds": 4,
+        "type": "out"
+      },
+      {
+        "label": "Hold",
+        "seconds": 4,
+        "type": "hold-empty"
+      }
+    ]
+  }
 }

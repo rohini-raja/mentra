@@ -24,6 +24,20 @@ export interface ToolStep {
   note?: string
 }
 
+// Optional breathing pacer for breath-based tools. Each phase drives the
+// animated circle in guided mode (inhale grows, exhale shrinks, holds pause).
+export interface BreathPhase {
+  label: string
+  seconds: number
+  type: 'in' | 'hold-full' | 'out' | 'hold-empty'
+}
+
+export interface BreathPattern {
+  phases: BreathPhase[]
+  /** Suggested number of cycles; the user can keep going regardless. */
+  cycles?: number
+}
+
 export interface ToolOrigin {
   psychologist: string
   tradition: string
@@ -58,6 +72,7 @@ export interface Tool {
   summary: string
   howItWorks: string
   steps: ToolStep[]
+  breathPattern?: BreathPattern
   whenToUse: string[]
   whenNotToUse: string[]
   tips: string[]

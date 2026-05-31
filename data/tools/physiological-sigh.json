@@ -72,5 +72,25 @@
   ],
   "pairsWith": [
     "5-4-3-2-1-grounding"
-  ]
+  ],
+  "breathPattern": {
+    "cycles": 5,
+    "phases": [
+      {
+        "label": "Breathe in",
+        "seconds": 3,
+        "type": "in"
+      },
+      {
+        "label": "Second short sip in",
+        "seconds": 1,
+        "type": "in"
+      },
+      {
+        "label": "Long breath out",
+        "seconds": 6,
+        "type": "out"
+      }
+    ]
+  }
 }

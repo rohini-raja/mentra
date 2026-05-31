@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 }
 
 // Update this if you fork the project.
-const REPO_URL = 'https://github.com/your-username/mentra'
+const REPO_URL = 'https://github.com/rohini-raja/mentra'
 
 export default function AboutPage() {
   const tools = getAllTools()

@@ -1,5 +1,7 @@
+import Link from 'next/link'
 import { getAllTools, getEmotions } from '@/lib/tools'
 import { EmotionFilter } from '@/components/EmotionFilter'
+import { SavedTools } from '@/components/SavedTools'
 
 export default function HomePage() {
   const tools = getAllTools()
@@ -16,6 +18,22 @@ export default function HomePage() {
           researchers. No account, no tracking, no AI &mdash; just clear,
           credited tools you can use right now.
         </p>
+
+        {/* Fast path for acute moments */}
+        <div className="mt-6 flex flex-wrap gap-3">
+          <Link
+            href="/now/"
+            className="rounded-xl bg-accent px-5 py-3 font-semibold text-accent-fg hover:opacity-90"
+          >
+            I need help now
+          </Link>
+          <Link
+            href="/crisis/"
+            className="rounded-xl border border-border px-5 py-3 font-semibold text-text hover:border-accent"
+          >
+            In crisis?
+          </Link>
+        </div>
       </section>
 
       <section className="mt-12">
@@ -29,6 +47,8 @@ export default function HomePage() {
           <EmotionFilter emotions={emotions} tools={tools} />
         </div>
       </section>
+
+      <SavedTools tools={tools} />
     </div>
   )
 }

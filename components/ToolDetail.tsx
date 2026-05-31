@@ -5,6 +5,8 @@ import { StepList } from './StepList'
 import { ResearchBadge } from './ResearchBadge'
 import { PsychologistCredit } from './PsychologistCredit'
 import { ToolCard } from './ToolCard'
+import { GuidedSession } from './GuidedSession'
+import { FavoriteButton } from './FavoriteButton'
 
 function Section({
   title,
@@ -56,9 +58,12 @@ export function ToolDetail({ tool }: { tool: Tool }) {
         </Link>
       </div>
 
-      <h1 className="mt-6 text-3xl font-bold leading-tight text-text sm:text-4xl">
-        {tool.name}
-      </h1>
+      <div className="mt-6 flex items-start justify-between gap-4">
+        <h1 className="text-3xl font-bold leading-tight text-text sm:text-4xl">
+          {tool.name}
+        </h1>
+        <FavoriteButton slug={tool.slug} />
+      </div>
       <p className="mt-3 text-xl text-muted">{tool.tagline}</p>
 
       <PsychologistCredit origin={tool.origin} className="mt-5" />
@@ -71,6 +76,11 @@ export function ToolDetail({ tool }: { tool: Tool }) {
           {tool.difficulty}
         </span>
         <ResearchBadge level={tool.evidence.level} />
+      </div>
+
+      {/* Guided "do it now" launcher */}
+      <div className="mt-7">
+        <GuidedSession tool={tool} />
       </div>
 
       {/* Summary */}

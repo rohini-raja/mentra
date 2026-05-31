@@ -1,23 +1,29 @@
 import type { Metadata, Viewport } from 'next'
 import Link from 'next/link'
 import './globals.css'
+import { ServiceWorker } from '@/components/ServiceWorker'
 
 const SITE_NAME = 'Mentra'
 const SITE_DESC =
   'A curated reference of psychological tools — searchable by what you’re feeling.'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://mentra.vercel.app'),
+  metadataBase: new URL('https://romentra.vercel.app'),
   title: {
     default: `${SITE_NAME} — psychological tools for what you’re feeling`,
     template: `%s · ${SITE_NAME}`,
   },
   description: SITE_DESC,
+  manifest: '/manifest.webmanifest',
+  appleWebApp: {
+    capable: true,
+    title: SITE_NAME,
+    statusBarStyle: 'black-translucent',
+  },
   openGraph: {
     title: SITE_NAME,
     description: SITE_DESC,
     type: 'website',
-    images: ['/og-image.png'],
   },
   twitter: {
     card: 'summary_large_image',
@@ -43,6 +49,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="min-h-screen">
+        <ServiceWorker />
         <a href="#main" className="skip-link">
           Skip to content
         </a>
@@ -55,18 +62,21 @@ export default function RootLayout({
             <Link href="/" className="text-lg font-bold text-text">
               Mentra
             </Link>
-            <div className="flex items-center gap-5 text-sm font-medium text-muted">
+            <div className="flex items-center gap-4 text-sm font-medium text-muted sm:gap-5">
               <Link href="/tools/" className="hover:text-accent">
                 Tools
               </Link>
-              <Link href="/about/" className="hover:text-accent">
-                About
+              <Link href="/situations/" className="hover:text-accent">
+                Situations
+              </Link>
+              <Link href="/space/" className="hover:text-accent">
+                Space
               </Link>
               <Link
                 href="/crisis/"
                 className="font-semibold text-accent hover:opacity-80"
               >
-                Crisis support
+                Crisis
               </Link>
             </div>
           </nav>
