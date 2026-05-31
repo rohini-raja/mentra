@@ -1,0 +1,73 @@
+{
+  "slug": "meaning-making",
+  "name": "Meaning-Making",
+  "tagline": "Find a reason to bear what can't be changed.",
+  "origin": {
+    "psychologist": "Viktor Frankl",
+    "tradition": "Logotherapy / Existential",
+    "year": 1946,
+    "source": "Man's Search for Meaning (Frankl, 1946)"
+  },
+  "emotions": [
+    "despair",
+    "emptiness",
+    "grief",
+    "suffering"
+  ],
+  "situations": [
+    "Facing suffering you can't change",
+    "Searching for purpose after a loss",
+    "Feeling life has become meaningless",
+    "Enduring a hardship that won't pass quickly"
+  ],
+  "category": "Existential",
+  "duration": "varies",
+  "difficulty": "advanced",
+  "summary": "Meaning-making, drawn from Frankl's logotherapy, holds that even unavoidable suffering can be borne if we find meaning in it. When you can't change a situation, you can still choose your attitude toward it and find purpose through what you create, who you love, or how you face the unchangeable. Meaning doesn't erase pain, but it makes it bearable.",
+  "howItWorks": "Frankl observed in the camps that survival often depended less on circumstance than on whether a person had something to live for. Logotherapy locates meaning in three places: in work or creation, in love and connection, and in the stance we take toward unavoidable suffering. Shifting the question from 'why is this happening to me?' to 'what is this asking of me, and what can I still give?' restores agency and purpose where circumstances offer none.",
+  "steps": [
+    {
+      "instruction": "Acknowledge what you genuinely cannot change about the situation."
+    },
+    {
+      "instruction": "Ask what is still within your power: what you can create, who you can care for, how you can respond."
+    },
+    {
+      "instruction": "Look for meaning in one of Frankl's three sources: work/creation, love/connection, or your chosen attitude.",
+      "mantra": "I can choose how I meet this."
+    },
+    {
+      "instruction": "Commit to one act that expresses that meaning, however small."
+    }
+  ],
+  "whenToUse": [
+    "When facing suffering that can't be changed",
+    "Searching for purpose after a profound loss",
+    "When life feels empty of meaning",
+    "Enduring a long or chronic hardship"
+  ],
+  "whenNotToUse": [
+    "To rush or bypass raw grief that needs to be felt first",
+    "As pressure to 'find the silver lining' in fresh trauma",
+    "When acute crisis needs stabilization before reflection"
+  ],
+  "tips": [
+    "Meaning is found and made over time, not on command",
+    "Start with small acts of creation, care, or courage",
+    "It doesn't deny pain — it gives the pain a place to stand",
+    "Connection and contribution are reliable sources of meaning"
+  ],
+  "evidence": {
+    "level": "clinical",
+    "summary": "Logotherapy is a foundational existential approach; meaning-centered interventions derived from it show benefits for distress in serious illness and grief in controlled studies.",
+    "citations": [
+      "Frankl, V.E. (1946). Man's Search for Meaning. Beacon Press.",
+      "Breitbart, W. et al. (2015). Meaning-Centered Group Psychotherapy: a randomized trial. Journal of Clinical Oncology."
+    ]
+  },
+  "relatedTools": [
+    "values-clarification",
+    "continuing-bonds",
+    "letter-writing"
+  ]
+}

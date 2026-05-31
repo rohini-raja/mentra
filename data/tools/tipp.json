@@ -1,0 +1,78 @@
+{
+  "slug": "tipp",
+  "name": "TIPP",
+  "tagline": "Change your body chemistry fast when emotion is at a 10.",
+  "origin": {
+    "psychologist": "Marsha Linehan",
+    "tradition": "Dialectical Behavior Therapy (DBT)",
+    "year": 1993,
+    "source": "Skills Training Manual for Treating Borderline Personality Disorder (Linehan, 1993)"
+  },
+  "emotions": [
+    "overwhelm",
+    "crisis",
+    "rage",
+    "panic",
+    "distress"
+  ],
+  "situations": [
+    "Emotion spiking past the point of thinking",
+    "On the edge of doing something impulsive",
+    "Need to come down fast",
+    "Crisis moment where talking won't help yet"
+  ],
+  "category": "Emotional Regulation",
+  "duration": "5–15 minutes",
+  "difficulty": "beginner",
+  "summary": "TIPP is DBT's emergency brake for overwhelming emotion: Temperature, Intense exercise, Paced breathing, and Paired muscle relaxation. Each works on your physiology directly to bring arousal down quickly when you're too activated to use any thinking-based skill. It's designed for crisis-level distress.",
+  "howItWorks": "When emotional arousal is extreme, the thinking brain goes offline and verbal skills can't land. TIPP bypasses cognition entirely and acts on the autonomic nervous system: cold triggers the dive reflex that slows the heart, intense exercise burns off stress hormones, slow exhales activate the parasympathetic 'rest' system, and muscle release signals safety to the body. Lower the body's alarm and the mind follows.",
+  "steps": [
+    {
+      "instruction": "Temperature: hold cold water or an ice pack to your face/eyes, or take a cold shower.",
+      "note": "Triggers the mammalian dive reflex, rapidly lowering heart rate."
+    },
+    {
+      "instruction": "Intense exercise: 5–15 minutes of all-out movement — run, jumping jacks, fast stairs.",
+      "note": "Metabolizes the surge of stress chemicals."
+    },
+    {
+      "instruction": "Paced breathing: slow your breath, making the out-breath longer than the in-breath."
+    },
+    {
+      "instruction": "Paired muscle relaxation: tense muscles on the in-breath, release fully on the out-breath."
+    }
+  ],
+  "whenToUse": [
+    "When emotion is at a 9 or 10 and rising",
+    "When you're close to an impulsive, harmful action",
+    "When no thinking-based skill is reachable",
+    "To physically interrupt a panic or rage spike"
+  ],
+  "whenNotToUse": [
+    "Cold/temperature: not with heart conditions, eating disorders, or low heart rate — check with a doctor",
+    "Intense exercise: not if injured or medically advised against exertion",
+    "As a substitute for ongoing treatment of chronic distress"
+  ],
+  "tips": [
+    "Cold water around the eyes and cheeks works fastest",
+    "Keep an ice pack in the freezer ready for crisis moments",
+    "Pair with longer exhales for compounding effect",
+    "Use it to get calm enough to then use a thinking skill"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "TIPP is a DBT distress-tolerance skill; DBT as a whole has strong meta-analytic support, and the underlying physiology (dive reflex, slow breathing) is well established.",
+    "citations": [
+      "Linehan, M.M. (1993). Skills Training Manual for Treating BPD. Guilford Press.",
+      "Storebø, O.J. et al. (2020). DBT for people with BPD: a Cochrane review."
+    ]
+  },
+  "relatedTools": [
+    "physiological-sigh",
+    "cold-water-face-immersion",
+    "stop-skill"
+  ],
+  "pairsWith": [
+    "stop-skill"
+  ]
+}

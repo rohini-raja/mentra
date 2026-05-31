@@ -1,0 +1,76 @@
+{
+  "slug": "stop-skill",
+  "name": "STOP Skill",
+  "tagline": "Freeze the moment before you react in a way you'll regret.",
+  "origin": {
+    "psychologist": "Marsha Linehan",
+    "tradition": "Dialectical Behavior Therapy (DBT)",
+    "year": 1993,
+    "source": "DBT Skills Training (Linehan, 1993; 2015)"
+  },
+  "emotions": [
+    "impulsivity",
+    "anger",
+    "overwhelm",
+    "urge"
+  ],
+  "situations": [
+    "About to send the text or say the thing",
+    "Urge to act on anger right now",
+    "Heated argument escalating",
+    "Strong impulse you might regret"
+  ],
+  "category": "Emotional Regulation",
+  "duration": "1–3 minutes",
+  "difficulty": "beginner",
+  "summary": "STOP is a four-step circuit-breaker for impulsive reactions: Stop, Take a step back, Observe, Proceed mindfully. It creates a deliberate pause between an urge and an action so you can respond from your values instead of your impulse. It takes seconds and prevents the things you'd take back.",
+  "howItWorks": "Impulsive harm happens in the gap where emotion drives behavior before thought catches up. STOP inserts a wedge into that gap. Physically stopping and stepping back interrupts the action tendency, observing engages the prefrontal cortex, and proceeding mindfully lets a chosen response replace the automatic one. The pause is short but it's enough to change the outcome.",
+  "steps": [
+    {
+      "instruction": "Stop. Freeze. Do not move or react.",
+      "mantra": "Stop.",
+      "note": "The literal physical stop is what breaks the chain."
+    },
+    {
+      "instruction": "Take a step back. Create distance — physically or with a breath."
+    },
+    {
+      "instruction": "Observe. Notice what's happening inside and around you, without judging it."
+    },
+    {
+      "instruction": "Proceed mindfully. Choose the action that fits your goals and values."
+    }
+  ],
+  "whenToUse": [
+    "When an urge to react is rising fast",
+    "Mid-argument, before it escalates",
+    "Before sending an angry message",
+    "Any moment you sense you're about to act on impulse"
+  ],
+  "whenNotToUse": [
+    "When the situation requires immediate physical safety action",
+    "As a way to suppress and never address the underlying emotion",
+    "When freezing would leave you exposed to genuine danger"
+  ],
+  "tips": [
+    "Practice it on small irritations so it's automatic in big ones",
+    "Pair with one slow exhale during 'Take a step back'",
+    "Literally say 'Stop' in your head to mark the moment",
+    "Follow with TIPP if arousal is too high to think"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "STOP is a DBT distress-tolerance skill; DBT has robust meta-analytic and Cochrane-level support for reducing impulsive and self-damaging behavior.",
+    "citations": [
+      "Linehan, M.M. (2015). DBT Skills Training Manual, 2nd ed. Guilford Press."
+    ]
+  },
+  "relatedTools": [
+    "tipp",
+    "opposite-action",
+    "physiological-sigh"
+  ],
+  "pairsWith": [
+    "tipp"
+  ]
+}

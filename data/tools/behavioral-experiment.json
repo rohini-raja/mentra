@@ -1,0 +1,72 @@
+{
+  "slug": "behavioral-experiment",
+  "name": "Behavioral Experiment",
+  "tagline": "Test an anxious prediction in real life instead of believing it.",
+  "origin": {
+    "psychologist": "Aaron T. Beck",
+    "tradition": "Cognitive Behavioral Therapy (CBT)",
+    "year": 1979,
+    "source": "Cognitive Therapy (Beck et al., 1979); Bennett-Levy et al. (2004)"
+  },
+  "emotions": [
+    "anxiety",
+    "fear",
+    "avoidance",
+    "self-doubt"
+  ],
+  "situations": [
+    "A fear you've never actually tested",
+    "Avoiding something because of a 'what if'",
+    "Believing 'if I do X, something bad will happen'",
+    "Wanting proof, not just reassurance"
+  ],
+  "category": "Cognitive",
+  "duration": "varies",
+  "difficulty": "advanced",
+  "summary": "A behavioral experiment turns an anxious belief into a testable prediction, then runs the test in real life to see what actually happens. Instead of arguing with a fear in your head, you gather firsthand evidence. It's often the most powerful way to change a belief, because experience convinces where logic alone can't.",
+  "howItWorks": "Anxiety thrives on untested predictions: avoidance prevents you from ever discovering the feared outcome usually doesn't occur, or that you'd cope if it did. By specifying the prediction, designing a safe test, and observing the real result, you replace imagined catastrophe with lived evidence. This experiential learning updates belief at a deeper level than verbal disputation.",
+  "steps": [
+    {
+      "instruction": "State the belief as a specific prediction: 'If I do X, then Y will happen.'"
+    },
+    {
+      "instruction": "Rate how strongly you believe it and design a concrete, safe way to test it."
+    },
+    {
+      "instruction": "Run the experiment, dropping any safety behaviors that would cloud the result."
+    },
+    {
+      "instruction": "Compare what actually happened to your prediction, and re-rate the belief.",
+      "note": "Surprises are the goal — they're where learning lives."
+    }
+  ],
+  "whenToUse": [
+    "When a fear has never actually been tested",
+    "To break an avoidance pattern with evidence",
+    "When reassurance isn't sticking",
+    "Checking a belief about how others will react"
+  ],
+  "whenNotToUse": [
+    "For genuinely dangerous predictions — don't test real risks",
+    "Without a fair, safe test design",
+    "In acute crisis or without support for high-stakes fears"
+  ],
+  "tips": [
+    "Make the prediction specific and measurable",
+    "Drop safety behaviors or they'll skew the result",
+    "Start with a low-stakes experiment to build confidence",
+    "Write down the result while it's fresh"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "Behavioral experiments draw on exposure and cognitive change, both core to CBT, which has strong meta-analytic support for anxiety disorders.",
+    "citations": [
+      "Bennett-Levy, J. et al. (2004). Oxford Guide to Behavioural Experiments in CBT. Oxford University Press."
+    ]
+  },
+  "relatedTools": [
+    "cognitive-restructuring",
+    "decatastrophizing",
+    "reversal-of-desire"
+  ]
+}

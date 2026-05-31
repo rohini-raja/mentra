@@ -1,0 +1,72 @@
+{
+  "slug": "temptation-bundling",
+  "name": "Temptation Bundling",
+  "tagline": "Pair something you should do with something you want to do.",
+  "origin": {
+    "psychologist": "Katherine Milkman",
+    "tradition": "Behavioral Economics",
+    "year": 2014,
+    "source": "Milkman, Minson & Volpp (2014). Holding the Hunger Games hostage at the gym. Management Science"
+  },
+  "emotions": [
+    "low-willpower",
+    "procrastination",
+    "dread",
+    "avoidance"
+  ],
+  "situations": [
+    "Dreading a healthy-but-boring task",
+    "Bingeing a guilty pleasure you'd rather limit",
+    "Struggling to stick with a habit",
+    "Wanting to make a chore tolerable"
+  ],
+  "category": "Motivational",
+  "duration": "5 minutes",
+  "difficulty": "beginner",
+  "summary": "Temptation bundling links an activity you should do but avoid with one you love but indulge in too much — you only allow the want while doing the should. Milkman's gym study let people listen to addictive audiobooks only while exercising, and attendance jumped. It solves two problems at once.",
+  "howItWorks": "We over-discount delayed rewards (the health benefit of exercise) and over-weight immediate ones (a gripping audiobook). Bundling brings an immediate, desirable reward into the moment of the difficult behavior, so the should now carries instant payoff. It also adds a layer of self-control by restricting the temptation to only happen alongside the beneficial activity.",
+  "steps": [
+    {
+      "instruction": "Identify a 'should' you keep avoiding (exercise, chores, admin)."
+    },
+    {
+      "instruction": "Identify a 'want' you enjoy, maybe a little too much (a show, podcast, treat)."
+    },
+    {
+      "instruction": "Make a rule: the want is only allowed during the should.",
+      "note": "e.g. 'I only watch my favorite series while on the treadmill.'"
+    },
+    {
+      "instruction": "Protect the rule — the bundle only works if the want stays exclusive to it."
+    }
+  ],
+  "whenToUse": [
+    "When a beneficial habit feels too boring to sustain",
+    "When a pleasure has become a time-sink",
+    "Making chores or admin more bearable",
+    "Building consistency where willpower keeps failing"
+  ],
+  "whenNotToUse": [
+    "When the 'should' needs full attention and the 'want' distracts dangerously (e.g. driving)",
+    "If the temptation is genuinely harmful and should be reduced, not scheduled",
+    "When bundling makes you resent both activities"
+  ],
+  "tips": [
+    "Keep the want exclusive to the bundle or the effect fades",
+    "Pick a want compatible with the should (audio for movement)",
+    "Re-bundle if it stops feeling rewarding",
+    "Combine with an implementation intention for the cue"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "A randomized field experiment found temptation bundling increased gym attendance; subsequent studies support its effect on adherence to beneficial behaviors.",
+    "citations": [
+      "Milkman, K.L., Minson, J.A. & Volpp, K.G. (2014). Holding the Hunger Games hostage at the gym. Management Science."
+    ]
+  },
+  "relatedTools": [
+    "implementation-intentions",
+    "committed-action",
+    "urge-surfing"
+  ]
+}

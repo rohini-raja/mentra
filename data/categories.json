@@ -1,0 +1,44 @@
+[
+  {
+    "id": "Motivational",
+    "label": "Motivational",
+    "tradition": "Stutz / ACT",
+    "description": "Tools for moving toward action when avoidance, resistance, or low drive get in the way."
+  },
+  {
+    "id": "Emotional Regulation",
+    "label": "Emotional Regulation",
+    "tradition": "DBT / CBT",
+    "description": "Skills for riding out intense emotions and shifting unhelpful thought patterns."
+  },
+  {
+    "id": "Cognitive",
+    "label": "Cognitive",
+    "tradition": "CBT / ACT",
+    "description": "Tools for working with thoughts — examining them, distancing from them, and loosening their grip."
+  },
+  {
+    "id": "Somatic",
+    "label": "Somatic",
+    "tradition": "Nervous system",
+    "description": "Body-based techniques that calm the nervous system directly through breath and physiology."
+  },
+  {
+    "id": "Relational",
+    "label": "Relational",
+    "tradition": "DBT / Motivational Interviewing",
+    "description": "Skills for difficult conversations, repair, and being heard without damaging the relationship."
+  },
+  {
+    "id": "Existential",
+    "label": "Existential",
+    "tradition": "Logotherapy / Gestalt",
+    "description": "Approaches to meaning, loss, and the larger questions that surface in grief and transition."
+  },
+  {
+    "id": "Mindfulness",
+    "label": "Mindfulness",
+    "tradition": "Self-compassion / MBSR",
+    "description": "Practices of present-moment awareness and kindness toward yourself."
+  }
+]

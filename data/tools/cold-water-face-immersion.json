@@ -1,0 +1,77 @@
+{
+  "slug": "cold-water-face-immersion",
+  "name": "Cold Water Face Immersion",
+  "tagline": "Cold on the face triggers the body's built-in calming reflex.",
+  "origin": {
+    "psychologist": "Derived from diving reflex research",
+    "tradition": "Physiology / DBT distress tolerance",
+    "year": 1960,
+    "source": "Mammalian dive reflex research; incorporated into DBT's TIPP skill"
+  },
+  "emotions": [
+    "panic",
+    "crisis",
+    "rage",
+    "overwhelm"
+  ],
+  "situations": [
+    "Emotion at crisis level, body in overdrive",
+    "Panic that won't respond to breathing",
+    "On the edge of an impulsive act",
+    "Need to physically force the body to calm"
+  ],
+  "category": "Somatic",
+  "duration": "1–3 minutes",
+  "difficulty": "beginner",
+  "summary": "Putting cold water on your face — especially around the eyes and cheeks while holding your breath — triggers the mammalian dive reflex, which rapidly slows your heart rate and dampens arousal. It's a fast, physiological way to bring down crisis-level emotion when nothing cognitive is reachable. It's the 'T' (Temperature) in DBT's TIPP skill.",
+  "howItWorks": "Cold stimulation of the face combined with breath-holding activates the dive reflex, an ancient survival response that conserves oxygen by slowing the heart and shifting the autonomic balance toward the parasympathetic 'rest' system. This produces a quick, involuntary drop in physiological arousal — useful precisely when emotion is too high for any thinking-based skill to work.",
+  "steps": [
+    {
+      "instruction": "Fill a bowl with cold water (around 10°C / 50°F) or grab an ice pack.",
+      "note": "Cold but not painful; very cold isn't necessary."
+    },
+    {
+      "instruction": "Take a breath, then bend forward and hold your face in the water — or press the cold pack over your eyes and upper cheeks."
+    },
+    {
+      "instruction": "Hold for about 15–30 seconds while keeping still."
+    },
+    {
+      "instruction": "Lift, breathe, and repeat once or twice if needed.",
+      "mantra": "Let the body slow down."
+    }
+  ],
+  "whenToUse": [
+    "Crisis-level emotion that breathing won't touch",
+    "Panic at its peak",
+    "When you're close to an impulsive, harmful action",
+    "To rapidly drop arousal before using a thinking skill"
+  ],
+  "whenNotToUse": [
+    "With heart conditions, low heart rate, or on certain heart medications — check with a doctor first",
+    "With eating disorders (the cold/bradycardia effect can be risky)",
+    "If you have a cold-water phobia that would worsen panic"
+  ],
+  "tips": [
+    "Target the area around the eyes and cheeks for the strongest reflex",
+    "Hold your breath during immersion to deepen the effect",
+    "An ice pack over the eyes works when water isn't handy",
+    "Use it to get calm enough to then problem-solve"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "The mammalian dive reflex and its bradycardic (heart-slowing) effect from cold facial immersion are well documented physiologically; it is incorporated into DBT's evidence-based TIPP skill.",
+    "citations": [
+      "Linehan, M.M. (2015). DBT Skills Training Manual. Guilford Press.",
+      "Foster, G.E. & Sheel, A.W. (2005). The human diving response. Scandinavian J. Med. & Science in Sports."
+    ]
+  },
+  "relatedTools": [
+    "tipp",
+    "physiological-sigh",
+    "5-4-3-2-1-grounding"
+  ],
+  "pairsWith": [
+    "tipp"
+  ]
+}

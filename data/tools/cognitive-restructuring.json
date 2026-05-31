@@ -1,0 +1,75 @@
+{
+  "slug": "cognitive-restructuring",
+  "name": "Cognitive Restructuring",
+  "tagline": "Catch a distorted thought and replace it with a fairer one.",
+  "origin": {
+    "psychologist": "Aaron T. Beck",
+    "tradition": "Cognitive Behavioral Therapy (CBT)",
+    "year": 1979,
+    "source": "Cognitive Therapy of Depression (Beck, Rush, Shaw & Emery, 1979)"
+  },
+  "emotions": [
+    "anxiety",
+    "self-criticism",
+    "catastrophizing",
+    "low-mood"
+  ],
+  "situations": [
+    "Mind jumping to the worst case",
+    "Harsh self-talk after a mistake",
+    "Believing an upsetting thought as fact",
+    "Anxiety driven by 'what ifs'"
+  ],
+  "category": "Cognitive",
+  "duration": "10–15 minutes",
+  "difficulty": "intermediate",
+  "summary": "Cognitive restructuring is the core CBT skill of examining the thoughts behind your distress, testing them against evidence, and forming a more balanced view. It treats automatic thoughts as hypotheses, not facts. Changing how you interpret a situation changes how you feel about it.",
+  "howItWorks": "CBT holds that it isn't events themselves but our interpretation of them that drives emotion. Automatic negative thoughts are often distorted — catastrophizing, all-or-nothing thinking, mind-reading. By identifying the thought, naming the distortion, and weighing the actual evidence, you loosen its grip and arrive at a more accurate appraisal, which shifts the feeling that followed from it.",
+  "steps": [
+    {
+      "instruction": "Write down the upsetting thought exactly as it occurred."
+    },
+    {
+      "instruction": "Rate how strongly you believe it (0–100%) and name the emotion it causes."
+    },
+    {
+      "instruction": "List evidence for and against the thought as if you were a fair witness."
+    },
+    {
+      "instruction": "Write a more balanced thought that fits all the evidence, and re-rate your belief and emotion."
+    }
+  ],
+  "whenToUse": [
+    "When anxiety or low mood is driven by a specific thought",
+    "After catching yourself catastrophizing",
+    "When self-criticism flares after a mistake",
+    "To question a belief you're treating as fact"
+  ],
+  "whenNotToUse": [
+    "When the negative thought is actually accurate — then problem-solve instead",
+    "In acute crisis, where stabilization comes first",
+    "As a way to argue yourself out of valid feelings"
+  ],
+  "tips": [
+    "Write it down — doing this in your head rarely works",
+    "Ask 'What would I tell a friend who had this thought?'",
+    "Name the specific distortion to weaken it",
+    "Aim for balanced and believable, not relentlessly positive"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "Cognitive restructuring is a central, extensively studied component of CBT, which has strong meta-analytic support across anxiety and depressive disorders.",
+    "citations": [
+      "Beck, A.T. et al. (1979). Cognitive Therapy of Depression. Guilford Press.",
+      "Hofmann, S.G. et al. (2012). The efficacy of CBT: a review of meta-analyses. Cognitive Therapy and Research."
+    ]
+  },
+  "relatedTools": [
+    "thought-record",
+    "decatastrophizing",
+    "behavioral-experiment"
+  ],
+  "pairsWith": [
+    "thought-record"
+  ]
+}

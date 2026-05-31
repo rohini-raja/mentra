@@ -1,0 +1,73 @@
+{
+  "slug": "implementation-intentions",
+  "name": "Implementation Intentions",
+  "tagline": "Turn a vague goal into an automatic 'if X, then Y' plan.",
+  "origin": {
+    "psychologist": "Peter Gollwitzer",
+    "tradition": "Social Psychology / Self-Regulation",
+    "year": 1999,
+    "source": "Gollwitzer, P.M. (1999). Implementation intentions. American Psychologist"
+  },
+  "emotions": [
+    "procrastination",
+    "forgetfulness",
+    "low-willpower",
+    "overwhelm"
+  ],
+  "situations": [
+    "Goals that never translate into action",
+    "Forgetting to do the thing in the moment",
+    "Relying on willpower and losing",
+    "Wanting to build or break a habit"
+  ],
+  "category": "Motivational",
+  "duration": "5 minutes",
+  "difficulty": "beginner",
+  "summary": "An implementation intention is a precommitted plan in the form 'If situation X arises, then I will do Y.' By deciding in advance exactly when, where, and how you'll act, you hand the decision to the environment instead of relying on in-the-moment willpower. It's one of the most reliably effective behavior-change techniques in psychology.",
+  "howItWorks": "Goal intentions ('I want to exercise') leave a gap between intention and action that willpower has to bridge — and willpower is unreliable. Implementation intentions close that gap by linking a specific cue to a specific response, so the behavior becomes triggered automatically when the cue appears. The plan effectively delegates control to the situation, freeing you from having to decide each time.",
+  "steps": [
+    {
+      "instruction": "State the goal behavior you want to happen."
+    },
+    {
+      "instruction": "Identify a specific, reliable cue: a time, place, or preceding event."
+    },
+    {
+      "instruction": "Write it as 'If [cue], then I will [behavior].'",
+      "mantra": "If X, then Y.",
+      "note": "Example: 'If it's 7am and I've made coffee, then I will write for 20 minutes.'"
+    },
+    {
+      "instruction": "Rehearse the if–then link a few times so the cue becomes a trigger."
+    }
+  ],
+  "whenToUse": [
+    "When goals keep failing to become action",
+    "Building a new habit or breaking an old one",
+    "When you forget intentions in the moment",
+    "Anticipating a tempting or hard situation in advance"
+  ],
+  "whenNotToUse": [
+    "When the cue is too vague or rare to reliably fire",
+    "For goals you haven't actually decided you want",
+    "As a substitute for addressing deeper ambivalence about the goal"
+  ],
+  "tips": [
+    "Anchor the cue to something that already happens daily",
+    "Be concrete — 'after lunch' beats 'in the afternoon'",
+    "Add an if–then for obstacles too: 'If I feel like skipping, then I'll do just 2 minutes'",
+    "Stack new habits onto existing routines"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "A meta-analysis of 94 studies found implementation intentions have a medium-to-large effect on goal attainment across many domains.",
+    "citations": [
+      "Gollwitzer, P.M. & Sheeran, P. (2006). Implementation intentions and goal achievement: a meta-analysis. Advances in Experimental Social Psychology."
+    ]
+  },
+  "relatedTools": [
+    "committed-action",
+    "temptation-bundling",
+    "behavioral-activation"
+  ]
+}

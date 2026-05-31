@@ -1,0 +1,73 @@
+{
+  "slug": "inner-authority",
+  "name": "Inner Authority",
+  "tagline": "Speak and act from your true self instead of your fear of judgment.",
+  "origin": {
+    "psychologist": "Phil Stutz",
+    "tradition": "Existential / Integrative",
+    "year": 2012,
+    "source": "The Tools (Stutz & Michels, 2012)",
+    "sourceUrl": "https://www.thetoolsbook.com"
+  },
+  "emotions": [
+    "insecurity",
+    "self-doubt",
+    "social-anxiety",
+    "fear-of-judgment"
+  ],
+  "situations": [
+    "Freezing up when all eyes are on you",
+    "Afraid of being judged before you speak",
+    "Holding back your real voice",
+    "Social anxiety before a presentation or group"
+  ],
+  "category": "Cognitive",
+  "duration": "2–5 minutes",
+  "difficulty": "intermediate",
+  "summary": "Inner Authority is Stutz's tool for insecurity and the fear of judgment. You picture your most insecure, hidden self — the 'Shadow' — standing beside you, and you speak in unison with it, drawing confidence from full self-acceptance rather than the crowd's approval. It shifts the source of your authority from outside to inside.",
+  "howItWorks": "Social anxiety comes from outsourcing your worth to other people's judgment, which puts your sense of self at their mercy. Inner Authority reclaims it by uniting you with the very part you're ashamed of, your Shadow. When you accept and speak alongside that hidden self, approval-seeking loses its grip because you're no longer dependent on the audience. Confidence becomes a function of self-acceptance, not performance.",
+  "steps": [
+    {
+      "instruction": "Picture your Shadow — the insecure, awkward, hidden part of you — standing just beside you."
+    },
+    {
+      "instruction": "Turn toward it and accept it completely, as it is."
+    },
+    {
+      "instruction": "Face the situation together, and speak or act in unison with your Shadow.",
+      "mantra": "We speak as one."
+    },
+    {
+      "instruction": "Draw your authority from this union, not from the crowd's reaction."
+    }
+  ],
+  "whenToUse": [
+    "Before speaking in front of others",
+    "When fear of judgment makes you freeze or shrink",
+    "Holding back your real opinions",
+    "Social anxiety before a meeting, date, or presentation"
+  ],
+  "whenNotToUse": [
+    "As a substitute for preparation when a task needs real skill",
+    "If self-focus increases anxiety, ground externally first",
+    "It complements, not replaces, treatment for severe social anxiety"
+  ],
+  "tips": [
+    "The acceptance of the Shadow is what generates the confidence",
+    "Practice it on small social moments before big ones",
+    "Pair with a slow breath to settle the body first",
+    "Confidence here is internal — it doesn't require feeling fearless"
+  ],
+  "evidence": {
+    "level": "clinical",
+    "summary": "A clinical-practice tool consistent with self-acceptance and exposure principles; reducing reliance on external approval is supported in social-anxiety treatment research.",
+    "citations": [
+      "Stutz, P. & Michels, B. (2012). The Tools. Spiegel & Grau."
+    ]
+  },
+  "relatedTools": [
+    "cognitive-defusion",
+    "self-compassion-break",
+    "dear-man"
+  ]
+}

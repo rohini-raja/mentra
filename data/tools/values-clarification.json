@@ -1,0 +1,74 @@
+{
+  "slug": "values-clarification",
+  "name": "Values Clarification",
+  "tagline": "Get clear on what actually matters to you, so your choices have a compass.",
+  "origin": {
+    "psychologist": "Steven C. Hayes",
+    "tradition": "Acceptance & Commitment Therapy (ACT)",
+    "year": 1999,
+    "source": "Acceptance and Commitment Therapy (Hayes, Strosahl & Wilson, 1999)"
+  },
+  "emotions": [
+    "confusion",
+    "emptiness",
+    "drift",
+    "stuckness"
+  ],
+  "situations": [
+    "Feeling lost about what you want",
+    "Making a decision with no clear basis",
+    "Going through the motions without meaning",
+    "Choosing between competing priorities"
+  ],
+  "category": "Motivational",
+  "duration": "15–20 minutes",
+  "difficulty": "intermediate",
+  "summary": "Values are not goals — they're the directions you want your life to keep moving in, like 'west' rather than a destination. This exercise helps you name them across the domains of your life so that day-to-day decisions have something to align to. Clear values turn vague restlessness into actionable direction.",
+  "howItWorks": "Goals can be completed; values can only be lived. When action is guided by chosen values rather than by avoiding discomfort or chasing others' approval, behavior becomes more flexible and resilient. Clarifying values gives the ACT 'committed action' process a target, and gives painful effort a meaning that makes it worth bearing.",
+  "steps": [
+    {
+      "instruction": "Pick a life domain: relationships, work, health, growth, community, leisure."
+    },
+    {
+      "instruction": "For each, ask: 'If no one were watching and I couldn't fail, how would I want to show up here?'"
+    },
+    {
+      "instruction": "Write the direction as a quality of action, not an outcome (e.g. 'be generous', not 'be liked')."
+    },
+    {
+      "instruction": "Rate how closely your current life matches each value, then pick one to act on this week."
+    }
+  ],
+  "whenToUse": [
+    "When you feel directionless or unmotivated",
+    "Before setting goals, so they point somewhere true",
+    "When facing a decision with no obvious right answer",
+    "When life feels busy but empty"
+  ],
+  "whenNotToUse": [
+    "As a one-time fix — values need revisiting over time",
+    "If it becomes a way to judge yourself for falling short",
+    "When you're in acute crisis and need stabilization first"
+  ],
+  "tips": [
+    "Distinguish values (ongoing directions) from goals (finish lines)",
+    "Watch for 'shoulds' borrowed from others — those aren't your values",
+    "You can't fail at a value, only drift from it — drift is fixable",
+    "Revisit yearly; values clarify with age and experience"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Values work is a well-studied ACT process; values-based interventions are associated with greater well-being and behavior change across multiple controlled studies.",
+    "citations": [
+      "Hayes, S.C., Strosahl, K. & Wilson, K.G. (1999). Acceptance and Commitment Therapy. Guilford Press."
+    ]
+  },
+  "relatedTools": [
+    "committed-action",
+    "meaning-making",
+    "implementation-intentions"
+  ],
+  "pairsWith": [
+    "committed-action"
+  ]
+}

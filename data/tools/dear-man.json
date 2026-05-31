@@ -1,0 +1,81 @@
+{
+  "slug": "dear-man",
+  "name": "DEAR MAN",
+  "tagline": "Ask for what you need, or say no, and be taken seriously.",
+  "origin": {
+    "psychologist": "Marsha Linehan",
+    "tradition": "Dialectical Behavior Therapy (DBT)",
+    "year": 1993,
+    "source": "DBT Skills Training — Interpersonal Effectiveness (Linehan, 1993; 2015)"
+  },
+  "emotions": [
+    "insecurity",
+    "frustration",
+    "resentment",
+    "powerlessness"
+  ],
+  "situations": [
+    "Needing to make a request and afraid to",
+    "Saying no when you usually cave",
+    "Standing up for yourself without exploding",
+    "A negotiation where you tend to get steamrolled"
+  ],
+  "category": "Relational",
+  "duration": "10 minutes to prepare",
+  "difficulty": "intermediate",
+  "summary": "DEAR MAN is DBT's script for asking for what you want or saying no effectively: Describe, Express, Assert, Reinforce, (stay) Mindful, Appear confident, Negotiate. It helps you advocate for yourself clearly and respectfully, without aggression or collapse. It's especially useful if you tend to either avoid asking or blow up.",
+  "howItWorks": "Effective requests require holding three things at once: the objective, the relationship, and your self-respect. DEAR MAN structures the objective side so the request is clear, factual, and hard to dismiss, while staying respectful. By preparing the words in advance, you reduce the anxiety that otherwise makes you either back down or come on too strong, and you keep the conversation on track when the other person pushes back.",
+  "steps": [
+    {
+      "instruction": "Describe the situation factually.",
+      "note": "'We agreed I'd have the report by Friday and it's now Tuesday.'"
+    },
+    {
+      "instruction": "Express how you feel using 'I' statements.",
+      "note": "'I feel anxious not knowing where it stands.'"
+    },
+    {
+      "instruction": "Assert your request or your no clearly and directly.",
+      "note": "Don't hint — state it."
+    },
+    {
+      "instruction": "Reinforce: explain the positive outcome of them agreeing."
+    },
+    {
+      "instruction": "Stay Mindful (keep returning to your point), Appear confident, and Negotiate where there's room.",
+      "mantra": "Clear, calm, and kind."
+    }
+  ],
+  "whenToUse": [
+    "When you need to make a request you're nervous about",
+    "Saying no when you habitually give in",
+    "Standing up for yourself without aggression",
+    "Negotiating where you tend to get overrun"
+  ],
+  "whenNotToUse": [
+    "When the relationship matters far more than this objective — lead with GIVE instead",
+    "With someone who is unsafe or abusive",
+    "As a script to override the other person's legitimate needs"
+  ],
+  "tips": [
+    "Write your DEAR MAN out before the conversation",
+    "Be a 'broken record' — calmly repeat your point if deflected",
+    "Pair with GIVE to protect the relationship while you assert",
+    "Confidence can be in posture and tone even if you don't feel it"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "DEAR MAN is a DBT interpersonal-effectiveness skill; DBT has strong meta-analytic and Cochrane-level support, and assertiveness training is well validated.",
+    "citations": [
+      "Linehan, M.M. (2015). DBT Skills Training Manual, 2nd ed. Guilford Press."
+    ]
+  },
+  "relatedTools": [
+    "give",
+    "nonviolent-communication",
+    "inner-authority"
+  ],
+  "pairsWith": [
+    "give"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "give",
+  "name": "GIVE",
+  "tagline": "Keep the relationship intact while you handle a hard conversation.",
+  "origin": {
+    "psychologist": "Marsha Linehan",
+    "tradition": "Dialectical Behavior Therapy (DBT)",
+    "year": 1993,
+    "source": "DBT Skills Training — Interpersonal Effectiveness (Linehan, 1993; 2015)"
+  },
+  "emotions": [
+    "conflict",
+    "tension",
+    "insecurity",
+    "worry"
+  ],
+  "situations": [
+    "A conversation where the relationship matters most",
+    "Wanting to disagree without damaging trust",
+    "Repairing closeness after friction",
+    "Talking to someone you care about under stress"
+  ],
+  "category": "Relational",
+  "duration": "during a conversation",
+  "difficulty": "beginner",
+  "summary": "GIVE is DBT's skill for preserving a relationship during a difficult interaction: be Gentle, act Interested, Validate, and use an Easy manner. Where DEAR MAN focuses on getting your objective, GIVE focuses on keeping the connection. The two are often used together so you can be both effective and kind.",
+  "howItWorks": "People shut down or fight back when they feel attacked, dismissed, or disrespected — which derails even reasonable requests. GIVE lowers that defensiveness by communicating care and respect alongside whatever you're discussing. Validation in particular signals that you understand the other person's perspective, which makes them far more willing to stay engaged and hear yours.",
+  "steps": [
+    {
+      "instruction": "Gentle: no attacks, threats, or judgment — keep tone and words soft."
+    },
+    {
+      "instruction": "Interested: listen, make eye contact, don't interrupt; show you care what they think."
+    },
+    {
+      "instruction": "Validate: acknowledge their feelings and perspective as understandable.",
+      "note": "'I can see why that felt unfair.'"
+    },
+    {
+      "instruction": "Easy manner: use a light touch, some warmth or humor; don't make it a battle.",
+      "mantra": "Soft on the person, clear on the issue."
+    }
+  ],
+  "whenToUse": [
+    "When the relationship matters more than winning the point",
+    "Disagreeing without damaging trust",
+    "Reconnecting after tension",
+    "Any sensitive talk with someone you care about"
+  ],
+  "whenNotToUse": [
+    "When you must hold a firm boundary that 'easy manner' would undercut",
+    "With someone exploiting your warmth to avoid accountability",
+    "When validation would mean endorsing harmful behavior"
+  ],
+  "tips": [
+    "Validation doesn't mean agreement — you can validate a feeling and still disagree",
+    "Pair with DEAR MAN to be both kind and clear",
+    "A little genuine warmth defuses a lot of tension",
+    "Listen more than you plan your reply"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "GIVE is a DBT interpersonal-effectiveness skill; DBT has strong meta-analytic support, and validation is a well-supported component of effective communication.",
+    "citations": [
+      "Linehan, M.M. (2015). DBT Skills Training Manual, 2nd ed. Guilford Press."
+    ]
+  },
+  "relatedTools": [
+    "dear-man",
+    "repair-attempt",
+    "nonviolent-communication"
+  ],
+  "pairsWith": [
+    "dear-man"
+  ]
+}

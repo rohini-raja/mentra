@@ -1,0 +1,78 @@
+{
+  "slug": "nonviolent-communication",
+  "name": "Nonviolent Communication",
+  "tagline": "Say what's true for you without blame, in four honest steps.",
+  "origin": {
+    "psychologist": "Marshall Rosenberg",
+    "tradition": "Humanistic / Communication",
+    "year": 1999,
+    "source": "Nonviolent Communication: A Language of Life (Rosenberg, 1999)"
+  },
+  "emotions": [
+    "anger",
+    "hurt",
+    "frustration",
+    "conflict"
+  ],
+  "situations": [
+    "A conflict where you keep blaming or being blamed",
+    "Needing to raise something difficult",
+    "Feeling unheard in a relationship",
+    "Wanting to express hurt without starting a fight"
+  ],
+  "category": "Relational",
+  "duration": "10 minutes to prepare",
+  "difficulty": "intermediate",
+  "summary": "Nonviolent Communication (NVC) gives you a four-part structure — observation, feeling, need, request — for expressing yourself honestly without blame or demand. It separates what actually happened from your judgment of it, and links your feelings to underlying needs. The result is communication that invites connection instead of defensiveness.",
+  "howItWorks": "Most conflict escalates because we mix observation with evaluation ('you always ignore me') and express feelings as accusations, which triggers defensiveness. NVC slows this down: stating a neutral observation, owning your feeling, naming the universal need beneath it, and making a clear, doable request. By taking responsibility for your own needs rather than blaming, you make it safer for the other person to actually hear you.",
+  "steps": [
+    {
+      "instruction": "Observation: state what happened factually, with no judgment.",
+      "note": "'When the dishes were left in the sink' — not 'when you were lazy'."
+    },
+    {
+      "instruction": "Feeling: name how you feel, owning it as yours.",
+      "note": "'I feel frustrated' — not 'you make me angry'."
+    },
+    {
+      "instruction": "Need: connect the feeling to an underlying need.",
+      "note": "'because I need some order to relax'."
+    },
+    {
+      "instruction": "Request: make a specific, doable, non-demanding request.",
+      "note": "'Would you be willing to rinse them after dinner?'"
+    }
+  ],
+  "whenToUse": [
+    "When a conversation keeps turning into blame",
+    "Raising a sensitive issue in a relationship",
+    "When you feel unheard and want to be understood",
+    "Expressing hurt without escalating into a fight"
+  ],
+  "whenNotToUse": [
+    "When immediate safety requires a direct boundary, not a request",
+    "As a formula to manipulate or pressure someone",
+    "In active abuse — protect yourself first"
+  ],
+  "tips": [
+    "Distinguish observation from evaluation — this is the hardest part",
+    "Name the need, not just the complaint",
+    "Make requests specific and refusable, not demands",
+    "Prepare the four steps in writing before a hard talk"
+  ],
+  "evidence": {
+    "level": "anecdotal",
+    "summary": "NVC is widely taught and clinically reasonable, but rigorous controlled studies are limited; it aligns with well-supported principles of assertive, non-blaming communication.",
+    "citations": [
+      "Rosenberg, M.B. (1999). Nonviolent Communication: A Language of Life. PuddleDancer Press."
+    ]
+  },
+  "relatedTools": [
+    "dear-man",
+    "repair-attempt",
+    "active-love"
+  ],
+  "pairsWith": [
+    "dear-man"
+  ]
+}

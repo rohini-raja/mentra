@@ -1,0 +1,76 @@
+{
+  "slug": "physiological-sigh",
+  "name": "Physiological Sigh",
+  "tagline": "Two breaths in, one long breath out — the fastest way to calm down.",
+  "origin": {
+    "psychologist": "Andrew Huberman / Jack Feldman",
+    "tradition": "Neuroscience / Respiratory Physiology",
+    "year": 2017,
+    "source": "Feldman lab research; Balban et al. (2023), Cell Reports Medicine"
+  },
+  "emotions": [
+    "anxiety",
+    "panic",
+    "stress",
+    "overwhelm"
+  ],
+  "situations": [
+    "Stress spiking and you need to calm down now",
+    "Anxious before a meeting or call",
+    "Can't catch your breath",
+    "Need fast relief in under a minute"
+  ],
+  "category": "Somatic",
+  "duration": "1–3 minutes",
+  "difficulty": "beginner",
+  "summary": "The physiological sigh is a double inhale through the nose followed by a long, slow exhale through the mouth. It's the body's own built-in reset — the breath pattern you naturally make when crying subsides. A few rounds quickly lower stress and arousal, and a 2023 controlled study found it outperformed other breathing and meditation practices for mood.",
+  "howItWorks": "A long exhale slows the heart by activating the parasympathetic nervous system, while the second short inhale reinflates collapsed air sacs in the lungs, offloading carbon dioxide more efficiently. Together they rapidly shift the body out of fight-or-flight. Because it works on physiology directly, it calms you faster than trying to think your way out of stress.",
+  "steps": [
+    {
+      "instruction": "Inhale fully through your nose."
+    },
+    {
+      "instruction": "On top of that breath, take a second short sip of air in through your nose.",
+      "note": "This double inhale is the key — it reinflates the lungs."
+    },
+    {
+      "instruction": "Exhale slowly and completely through your mouth, longer than the inhale.",
+      "mantra": "Long out-breath."
+    },
+    {
+      "instruction": "Repeat 1–3 times, or for a few minutes for deeper calm."
+    }
+  ],
+  "whenToUse": [
+    "When stress or anxiety spikes suddenly",
+    "Before a stressful meeting, call, or performance",
+    "Mid-panic to interrupt the escalation",
+    "Anytime you need to calm down in under a minute"
+  ],
+  "whenNotToUse": [
+    "If breathing exercises trigger dizziness for you, ease off",
+    "As a sole treatment for a panic disorder",
+    "When chest pain or breathing difficulty could be medical — seek care"
+  ],
+  "tips": [
+    "Make the exhale clearly longer than the inhale",
+    "One or two sighs already help; you don't need many",
+    "Works discreetly — no one needs to notice",
+    "Keep it in your pocket for acute moments; use slower breathing for sustained calm"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "A 2023 randomized controlled study (Balban et al.) found five minutes of cyclic sighing improved mood and reduced respiratory rate more than mindfulness meditation or other breathwork.",
+    "citations": [
+      "Balban, M.Y. et al. (2023). Brief structured respiration practices enhance mood and reduce physiological arousal. Cell Reports Medicine."
+    ]
+  },
+  "relatedTools": [
+    "box-breathing",
+    "cold-water-face-immersion",
+    "5-4-3-2-1-grounding"
+  ],
+  "pairsWith": [
+    "5-4-3-2-1-grounding"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "slug": "committed-action",
+  "name": "Committed Action",
+  "tagline": "Take a small step toward your values even when you don't feel ready.",
+  "origin": {
+    "psychologist": "Steven C. Hayes",
+    "tradition": "Acceptance & Commitment Therapy (ACT)",
+    "year": 1999,
+    "source": "Acceptance and Commitment Therapy (Hayes, Strosahl & Wilson, 1999)"
+  },
+  "emotions": [
+    "avoidance",
+    "stuckness",
+    "low-motivation",
+    "overwhelm"
+  ],
+  "situations": [
+    "Knowing what matters but not doing it",
+    "Waiting to 'feel motivated' before starting",
+    "Big goal that feels paralyzing",
+    "Wanting change but staying stuck"
+  ],
+  "category": "Motivational",
+  "duration": "5–10 minutes",
+  "difficulty": "intermediate",
+  "summary": "Committed Action is the doing half of ACT: choosing behavior guided by your values rather than your mood. You define a small, concrete step and take it whether or not the feelings cooperate. Over time these steps build patterns of effective action that don't depend on motivation.",
+  "howItWorks": "Most people wait for feelings to change before they act, but in ACT the order is reversed — action shapes feeling, not the other way around. By linking a tiny behavior to a value you care about, you bypass the need for motivation and build momentum. Acceptance of discomfort runs alongside: you make room for the reluctance instead of waiting for it to disappear.",
+  "steps": [
+    {
+      "instruction": "Name the value this connects to (e.g. 'being a present parent', 'doing honest work')."
+    },
+    {
+      "instruction": "Choose one step so small you're almost certain you can do it today."
+    },
+    {
+      "instruction": "Make room for any discomfort that shows up — let it be there without obeying it."
+    },
+    {
+      "instruction": "Take the step now, then pick the next one.",
+      "note": "Repetition is the point; one step is a proof of concept, not the goal."
+    }
+  ],
+  "whenToUse": [
+    "When you know your direction but aren't moving",
+    "When motivation has failed you repeatedly",
+    "Breaking a large goal into livable pieces",
+    "When feelings keep vetoing your intentions"
+  ],
+  "whenNotToUse": [
+    "When the 'value' is actually someone else's expectation",
+    "If steps are set so large they guarantee failure",
+    "When genuine rest or recovery is what's actually needed"
+  ],
+  "tips": [
+    "Make the first step laughably small — shrink it until it feels easy",
+    "Tie it explicitly to a value, not an outcome",
+    "Track steps, not results — consistency is the win",
+    "Expect discomfort; its presence isn't a sign to stop"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "Committed action is a core process of ACT, which is supported by numerous randomized trials and meta-analyses across anxiety, depression, and chronic pain.",
+    "citations": [
+      "Hayes, S.C., Strosahl, K. & Wilson, K.G. (1999). Acceptance and Commitment Therapy. Guilford Press.",
+      "A-Tjak, J.G. et al. (2015). A meta-analysis of ACT. Psychotherapy and Psychosomatics."
+    ]
+  },
+  "relatedTools": [
+    "values-clarification",
+    "implementation-intentions",
+    "behavioral-activation"
+  ],
+  "pairsWith": [
+    "values-clarification"
+  ]
+}

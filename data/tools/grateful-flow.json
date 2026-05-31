@@ -1,0 +1,75 @@
+{
+  "slug": "grateful-flow",
+  "name": "The Grateful Flow",
+  "tagline": "Break a negative spiral by actively generating gratitude.",
+  "origin": {
+    "psychologist": "Phil Stutz",
+    "tradition": "Existential / Integrative",
+    "year": 2012,
+    "source": "The Tools (Stutz & Michels, 2012)",
+    "sourceUrl": "https://www.thetoolsbook.com"
+  },
+  "emotions": [
+    "negativity",
+    "hopelessness",
+    "rumination",
+    "dark-thoughts"
+  ],
+  "situations": [
+    "Caught in a loop of negative thoughts",
+    "Mind drifting to everything that's wrong",
+    "Sinking into hopelessness",
+    "Waking at 3am spiraling"
+  ],
+  "category": "Mindfulness",
+  "duration": "2–5 minutes",
+  "difficulty": "beginner",
+  "summary": "The Grateful Flow is Stutz's tool for interrupting the mind's negativity, which he calls a force that will fill any vacuum with darkness. You don't just list things you're grateful for — you slowly generate new ones and then feel the gratitude as an active force rising in you. It's a deliberate counter-move to rumination.",
+  "howItWorks": "The mind has a strong negativity bias and, left idle, gravitates to grievance and worry. The Grateful Flow occupies that mental space with its opposite. The crucial part isn't the list but the effort of finding fresh, specific items, which forces engagement, and then the felt sense of gratitude, which shifts your emotional state. It pre-empts negativity by giving the mind a different job.",
+  "steps": [
+    {
+      "instruction": "Silently name specific things you're grateful for — small and ordinary count.",
+      "note": "Go slowly; the effort of finding new ones is the active ingredient."
+    },
+    {
+      "instruction": "Keep going past the obvious ones to fresh, unexpected ones."
+    },
+    {
+      "instruction": "Stop listing and feel the gratitude as a warm force rising in your chest.",
+      "mantra": "Let the gratitude rise."
+    },
+    {
+      "instruction": "Sense that this force can block negativity whenever it tries to take over."
+    }
+  ],
+  "whenToUse": [
+    "When caught in a negative thought loop",
+    "When the mind drifts to everything wrong",
+    "Sinking toward hopelessness",
+    "3am rumination that won't stop"
+  ],
+  "whenNotToUse": [
+    "To bypass grief or a problem that needs facing",
+    "As toxic positivity that denies real difficulty",
+    "During acute crisis, where stabilization comes first"
+  ],
+  "tips": [
+    "The work is finding new items, not repeating a stock list",
+    "End by feeling the gratitude, not just thinking it",
+    "Specific beats generic — 'this warm coffee' over 'my life'",
+    "Use it the moment negativity starts, before it builds"
+  ],
+  "evidence": {
+    "level": "clinical",
+    "summary": "A clinical-practice tool consistent with gratitude research, where gratitude practices are associated with improved mood and well-being in controlled studies.",
+    "citations": [
+      "Stutz, P. & Michels, B. (2012). The Tools. Spiegel & Grau.",
+      "Emmons, R.A. & McCullough, M.E. (2003). Counting blessings versus burdens. JPSP."
+    ]
+  },
+  "relatedTools": [
+    "self-compassion-break",
+    "behavioral-activation",
+    "loving-kindness-meditation"
+  ]
+}

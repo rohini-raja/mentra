@@ -1,0 +1,76 @@
+{
+  "slug": "urge-surfing",
+  "name": "Urge Surfing",
+  "tagline": "Ride a craving like a wave instead of fighting or feeding it.",
+  "origin": {
+    "psychologist": "G. Alan Marlatt",
+    "tradition": "Relapse Prevention / Mindfulness",
+    "year": 1985,
+    "source": "Relapse Prevention (Marlatt & Gordon, 1985)"
+  },
+  "emotions": [
+    "craving",
+    "urge",
+    "compulsion",
+    "low-willpower"
+  ],
+  "situations": [
+    "A craving for a habit you're trying to quit",
+    "An urge to check, scroll, or indulge",
+    "Compulsion that feels impossible to resist",
+    "White-knuckling against a temptation"
+  ],
+  "category": "Mindfulness",
+  "duration": "5–20 minutes",
+  "difficulty": "intermediate",
+  "summary": "Urge surfing treats a craving as a wave that rises, peaks, and falls — usually within about 20–30 minutes — if you neither act on it nor fight it. Instead of white-knuckling, you observe the urge in your body with curiosity and let it pass. Developed for addiction relapse prevention, it works for any compulsive pull.",
+  "howItWorks": "Cravings are conditioned responses that intensify if you struggle against them and are reinforced every time you give in. Urge surfing breaks the cycle by changing your relationship to the urge: you watch it as a temporary bodily event rather than a command. Because urges naturally crest and subside, mindful observation lets the wave pass on its own, and each surf weakens the conditioned response a little more.",
+  "steps": [
+    {
+      "instruction": "Notice the urge and where you feel it in your body — tightness, heat, restlessness."
+    },
+    {
+      "instruction": "Don't fight it or feed it. Just observe it with curiosity.",
+      "mantra": "This is a wave. I can ride it."
+    },
+    {
+      "instruction": "Breathe and stay with the sensations as the urge rises and peaks."
+    },
+    {
+      "instruction": "Watch it crest and gradually fall. Notice you didn't have to act on it."
+    }
+  ],
+  "whenToUse": [
+    "When a craving hits a habit you're changing",
+    "An urge to check your phone, scroll, or indulge",
+    "When willpower-by-force keeps failing",
+    "Any compulsive pull you want to outlast"
+  ],
+  "whenNotToUse": [
+    "For physiologically dangerous withdrawal — get medical support",
+    "As the sole strategy for serious addiction; combine with treatment",
+    "If observing the body worsens distress, ground externally first"
+  ],
+  "tips": [
+    "Remind yourself urges are time-limited — they always pass",
+    "Locate it in the body; that's easier than fighting the thought",
+    "Each surf makes the next urge weaker",
+    "Pair with removing the cue (temptation bundling, environment design)"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Urge surfing is a core relapse-prevention skill with support from mindfulness-based addiction research, including mindfulness-based relapse prevention trials.",
+    "citations": [
+      "Marlatt, G.A. & Gordon, J.R. (1985). Relapse Prevention. Guilford Press.",
+      "Bowen, S. et al. (2014). Mindfulness-based relapse prevention. JAMA Psychiatry."
+    ]
+  },
+  "relatedTools": [
+    "ride-the-wave",
+    "temptation-bundling",
+    "physiological-sigh"
+  ],
+  "pairsWith": [
+    "ride-the-wave"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "rain",
+  "name": "RAIN",
+  "tagline": "Recognize, Allow, Investigate, Nurture — meet a hard emotion with awareness.",
+  "origin": {
+    "psychologist": "Michele McDonald; popularized by Tara Brach",
+    "tradition": "Mindfulness / Self-Compassion",
+    "year": 2003,
+    "source": "Tara Brach, Radical Acceptance (2003) and later work"
+  },
+  "emotions": [
+    "overwhelm",
+    "grief",
+    "shame",
+    "fear",
+    "sadness"
+  ],
+  "situations": [
+    "A difficult emotion you keep pushing away",
+    "Feeling flooded and wanting a way through",
+    "Stuck in a reactive pattern",
+    "Grief or fear you don't know how to hold"
+  ],
+  "category": "Mindfulness",
+  "duration": "5–15 minutes",
+  "difficulty": "intermediate",
+  "summary": "RAIN is a four-step mindfulness practice for working with difficult emotions: Recognize what's happening, Allow it to be there, Investigate with curiosity and kindness, and Nurture yourself. It moves you from being swept away by an emotion to holding it with awareness. It's a gentle, structured way to face feelings instead of fleeing them.",
+  "howItWorks": "Difficult emotions intensify when we suppress them or fuse with them. RAIN creates a middle path: recognizing names the experience, allowing stops the exhausting fight against it, investigating brings curious attention to how it lives in the body and what it needs, and nurturing supplies self-compassion. This sequence engages mindful awareness and the soothing system, which together reduce the emotion's grip and the reactivity it drives.",
+  "steps": [
+    {
+      "instruction": "Recognize: name what you're feeling. 'There's fear,' 'this is grief.'"
+    },
+    {
+      "instruction": "Allow: let the feeling be there without fixing or fighting it.",
+      "mantra": "Let it be."
+    },
+    {
+      "instruction": "Investigate: gently explore where it lives in your body and what it most needs."
+    },
+    {
+      "instruction": "Nurture: offer that need — reassurance, kindness, a hand on the heart."
+    }
+  ],
+  "whenToUse": [
+    "When a hard emotion keeps getting pushed away",
+    "Feeling flooded and wanting a way to hold it",
+    "Stuck reacting on autopilot",
+    "Sitting with grief, fear, or shame"
+  ],
+  "whenNotToUse": [
+    "During acute panic — ground the body first",
+    "If investigating reopens trauma without support",
+    "When you need immediate stabilization rather than exploration"
+  ],
+  "tips": [
+    "Go slowly; each step deserves a breath or two",
+    "Investigate with curiosity, not interrogation",
+    "The 'N' is essential — don't skip the self-kindness",
+    "Even an abbreviated RAIN in a hard moment helps"
+  ],
+  "evidence": {
+    "level": "clinical",
+    "summary": "RAIN is a widely taught mindfulness practice; its components draw on mindfulness and self-compassion research, both of which have strong empirical support, though RAIN as a packaged protocol has limited direct trials.",
+    "citations": [
+      "Brach, T. (2003). Radical Acceptance. Bantam.",
+      "Khoury, B. et al. (2013). Mindfulness-based therapy: a meta-analysis. Clinical Psychology Review."
+    ]
+  },
+  "relatedTools": [
+    "self-compassion-break",
+    "ride-the-wave",
+    "body-scan"
+  ],
+  "pairsWith": [
+    "self-compassion-break"
+  ]
+}

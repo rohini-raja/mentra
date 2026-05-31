@@ -1,0 +1,73 @@
+{
+  "slug": "opposite-action",
+  "name": "Opposite Action",
+  "tagline": "When an emotion's urge doesn't fit the facts, do the opposite of what it wants.",
+  "origin": {
+    "psychologist": "Marsha Linehan",
+    "tradition": "Dialectical Behavior Therapy (DBT)",
+    "year": 1993,
+    "source": "DBT Skills Training (Linehan, 1993; 2015)"
+  },
+  "emotions": [
+    "anger",
+    "fear",
+    "shame",
+    "sadness",
+    "resentment"
+  ],
+  "situations": [
+    "Anger urging you to attack when it won't help",
+    "Fear telling you to avoid something safe",
+    "Shame making you hide when you've done nothing wrong",
+    "Sadness pulling you to withdraw"
+  ],
+  "category": "Emotional Regulation",
+  "duration": "varies",
+  "difficulty": "intermediate",
+  "summary": "Every emotion comes with an action urge — anger wants to attack, fear wants to flee, shame wants to hide. When the emotion doesn't fit the facts, or acting on it would make things worse, Opposite Action says do the opposite, fully and wholeheartedly. Acting against the urge changes the emotion itself.",
+  "howItWorks": "Emotions are maintained by the behaviors they drive — avoidance keeps fear alive, withdrawal deepens sadness. By doing the opposite action all the way, you stop feeding the emotion and give your brain new evidence that contradicts it. Done repeatedly and completely, the emotion's intensity drops. The key is checking the facts first: opposite action is for emotions that don't fit the situation, not for emotions giving you accurate information.",
+  "steps": [
+    {
+      "instruction": "Name the emotion and its action urge (anger → attack, fear → avoid)."
+    },
+    {
+      "instruction": "Check the facts: does the emotion fit the situation, and does acting on it help?"
+    },
+    {
+      "instruction": "If not, identify the opposite action and do it fully — posture, words, and all.",
+      "note": "Half-hearted opposite action doesn't work; commit completely."
+    },
+    {
+      "instruction": "Repeat until the emotion's grip loosens."
+    }
+  ],
+  "whenToUse": [
+    "When an emotion is unjustified by the facts",
+    "When acting on the urge would make things worse",
+    "Fear of safe things; anger that won't help; shame without wrongdoing",
+    "When you want to change an emotion, not just tolerate it"
+  ],
+  "whenNotToUse": [
+    "When the emotion fits the facts and is giving useful information (e.g. fear of real danger)",
+    "As a way to invalidate or suppress legitimate feelings",
+    "When acting opposite would cross your own values or boundaries"
+  ],
+  "tips": [
+    "Always check the facts first — this is the make-or-break step",
+    "Commit fully; do it with your whole body and voice",
+    "It usually takes repetition, not one attempt",
+    "Opposite of shame (when unwarranted) is to keep doing the thing publicly"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "Opposite action is grounded in exposure principles and is part of DBT emotion regulation; both DBT and exposure-based methods have strong meta-analytic support.",
+    "citations": [
+      "Linehan, M.M. (2015). DBT Skills Training Manual, 2nd ed. Guilford Press."
+    ]
+  },
+  "relatedTools": [
+    "stop-skill",
+    "ride-the-wave",
+    "behavioral-activation"
+  ]
+}

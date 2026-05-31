@@ -1,0 +1,74 @@
+{
+  "slug": "cognitive-defusion",
+  "name": "Cognitive Defusion",
+  "tagline": "Step back from a thought so it's something you have, not something you are.",
+  "origin": {
+    "psychologist": "Steven C. Hayes",
+    "tradition": "Acceptance & Commitment Therapy (ACT)",
+    "year": 1999,
+    "source": "Acceptance and Commitment Therapy (Hayes, Strosahl & Wilson, 1999)"
+  },
+  "emotions": [
+    "self-criticism",
+    "anxiety",
+    "rumination",
+    "insecurity"
+  ],
+  "situations": [
+    "A harsh thought you're treating as truth",
+    "'I'm a failure' looping in your head",
+    "Tangled up in worry",
+    "Believing your thoughts define you"
+  ],
+  "category": "Cognitive",
+  "duration": "2–5 minutes",
+  "difficulty": "beginner",
+  "summary": "Cognitive defusion is the ACT skill of unhooking from your thoughts — seeing them as passing mental events rather than literal truths or commands. Techniques like adding 'I'm having the thought that…' or repeating a word until it loses meaning create distance. The thought may stay, but it stops running the show.",
+  "howItWorks": "We're usually 'fused' with our thoughts, experiencing them as reality itself rather than as words and images the mind produces. Fusion gives painful thoughts enormous power over feeling and behavior. Defusion changes the function of the thought, not its content: by observing it as a thought, you reduce its believability and its emotional pull, freeing you to act on your values rather than your mental chatter.",
+  "steps": [
+    {
+      "instruction": "Catch the sticky thought, e.g. 'I'm going to fail.'"
+    },
+    {
+      "instruction": "Prefix it: 'I'm having the thought that I'm going to fail.'",
+      "note": "Notice the small but real distance this creates."
+    },
+    {
+      "instruction": "Try another defusion move: thank your mind, sing the thought, or repeat the key word until it sounds odd.",
+      "mantra": "It's a thought, not a fact."
+    },
+    {
+      "instruction": "Let the thought be there and turn toward what you actually want to do."
+    }
+  ],
+  "whenToUse": [
+    "When a harsh thought feels like absolute truth",
+    "Hooked by 'I'm not good enough' or similar",
+    "Tangled in worry or rumination",
+    "When thoughts are dictating your behavior"
+  ],
+  "whenNotToUse": [
+    "To dismiss thoughts that are giving accurate, useful information",
+    "As mockery that turns into more self-criticism",
+    "When the issue needs problem-solving, not just distance"
+  ],
+  "tips": [
+    "Defusion changes your relationship to a thought, not the thought itself",
+    "'I'm having the thought that…' is the simplest, most reliable move",
+    "Playfulness helps — silly voices, songs, repetition",
+    "The goal is workability, not getting rid of the thought"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Cognitive defusion is a core ACT process supported by experimental studies and component research showing reduced believability and distress from negative thoughts.",
+    "citations": [
+      "Hayes, S.C., Strosahl, K. & Wilson, K.G. (1999). Acceptance and Commitment Therapy. Guilford Press.",
+      "Levin, M.E. et al. (2012). The impact of ACT components: a meta-analysis. Behavior Therapy."
+    ]
+  },
+  "relatedTools": [
+    "leaves-on-a-stream",
+    "cognitive-restructuring",
+    "inner-authority"
+  ]
+}

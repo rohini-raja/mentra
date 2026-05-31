@@ -1,0 +1,74 @@
+{
+  "slug": "thought-record",
+  "name": "Thought Record",
+  "tagline": "A structured worksheet to untangle the thought–feeling–evidence loop.",
+  "origin": {
+    "psychologist": "Aaron T. Beck",
+    "tradition": "Cognitive Behavioral Therapy (CBT)",
+    "year": 1979,
+    "source": "Cognitive Therapy of Depression (Beck et al., 1979)"
+  },
+  "emotions": [
+    "anxiety",
+    "low-mood",
+    "self-criticism",
+    "rumination"
+  ],
+  "situations": [
+    "A specific moment that upset you",
+    "Recurrent distressing thoughts",
+    "Wanting to slow down a spiral and see it clearly",
+    "Strong emotion you can't quite explain"
+  ],
+  "category": "Cognitive",
+  "duration": "15–20 minutes",
+  "difficulty": "intermediate",
+  "summary": "The thought record is the worksheet version of cognitive restructuring: columns for the situation, the automatic thought, the emotion, the evidence on both sides, and a balanced alternative. Writing it out externalizes the spiral so you can see it instead of being inside it. It's the workhorse skill of CBT.",
+  "howItWorks": "Distressing thoughts move too fast to examine while they're happening. The thought record slows the process down and makes it visible, separating the triggering event from your interpretation of it and from the emotion that followed. Laying out evidence for and against in writing engages deliberate reasoning, which the heat of emotion usually crowds out.",
+  "steps": [
+    {
+      "instruction": "Situation: write what happened, factually, when the emotion hit."
+    },
+    {
+      "instruction": "Automatic thought: what went through your mind? Rate belief 0–100%."
+    },
+    {
+      "instruction": "Emotion: name it and rate its intensity 0–100%."
+    },
+    {
+      "instruction": "Evidence for and against the thought; then a balanced thought. Re-rate emotion and belief."
+    }
+  ],
+  "whenToUse": [
+    "After a specific upsetting moment",
+    "When a thought keeps recurring",
+    "To make sense of a strong, confusing emotion",
+    "Learning CBT skills systematically"
+  ],
+  "whenNotToUse": [
+    "When you need fast relief in a crisis — use a somatic tool first",
+    "If it becomes obsessive over-analysis",
+    "When the thought is accurate and calls for action, not reframing"
+  ],
+  "tips": [
+    "Keep a template on your phone for in-the-moment use",
+    "Be specific about the situation — vague entries don't work",
+    "The evidence-against column is where the shift happens",
+    "Do a few with support before relying on it solo"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "The thought record operationalizes cognitive restructuring, a core mechanism of CBT, which has extensive meta-analytic support.",
+    "citations": [
+      "Beck, A.T. et al. (1979). Cognitive Therapy of Depression. Guilford Press."
+    ]
+  },
+  "relatedTools": [
+    "cognitive-restructuring",
+    "decatastrophizing",
+    "worry-time"
+  ],
+  "pairsWith": [
+    "cognitive-restructuring"
+  ]
+}

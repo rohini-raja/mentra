@@ -1,0 +1,73 @@
+{
+  "slug": "worry-time",
+  "name": "Worry Time",
+  "tagline": "Postpone worrying to a scheduled slot so it stops invading your day.",
+  "origin": {
+    "psychologist": "Developed across CBT literature",
+    "tradition": "Cognitive Behavioral Therapy (CBT)",
+    "year": 1983,
+    "source": "Stimulus-control treatment of worry (Borkovec et al., 1983)"
+  },
+  "emotions": [
+    "worry",
+    "anxiety",
+    "rumination",
+    "overthinking"
+  ],
+  "situations": [
+    "Worries intruding all day long",
+    "Can't focus because of background anxiety",
+    "Lying awake worrying at night",
+    "Worry that loops without resolution"
+  ],
+  "category": "Cognitive",
+  "duration": "15–30 minutes daily",
+  "difficulty": "beginner",
+  "summary": "Worry Time is a CBT technique where you postpone worrying to a single scheduled 15–30 minute slot each day. When a worry shows up outside that window, you note it and deliberately set it aside until worry time. It contains the worry instead of letting it colonize your whole day, and often the worry has faded by the time the slot arrives.",
+  "howItWorks": "Chronic worry becomes a conditioned habit triggered constantly throughout the day, in every context. Worry Time uses stimulus control to break that link: by confining worry to one time and place, you stop reinforcing the all-day pattern. Postponement also creates distance, and many worries lose their urgency or resolve themselves before the scheduled slot, revealing how few actually require action.",
+  "steps": [
+    {
+      "instruction": "Schedule a fixed 15–30 minute worry period daily — not too close to bedtime."
+    },
+    {
+      "instruction": "When a worry arises during the day, jot it down and tell yourself you'll attend to it at worry time."
+    },
+    {
+      "instruction": "Gently return your attention to what you were doing.",
+      "mantra": "Not now — at worry time."
+    },
+    {
+      "instruction": "At worry time, review the list. Problem-solve what's actionable; notice how much has faded.",
+      "note": "Stop when the time is up, even mid-worry."
+    }
+  ],
+  "whenToUse": [
+    "When worries intrude throughout the day",
+    "When background anxiety wrecks your focus",
+    "Lying awake worrying at night",
+    "To contain rumination that loops without resolving"
+  ],
+  "whenNotToUse": [
+    "For worries about genuine, imminent risks needing action now",
+    "If it becomes a way to feed worry rather than contain it",
+    "As the sole approach for severe generalized anxiety — seek support"
+  ],
+  "tips": [
+    "Keep a worry list on your phone for quick postponement",
+    "Hold worry time at the same time and place daily",
+    "End on time even mid-worry — the boundary is the point",
+    "Split worries into 'solvable' (plan) and 'hypothetical' (let go)"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Stimulus-control / worry-postponement is an empirically supported CBT technique for generalized worry, with controlled studies showing reduced worry.",
+    "citations": [
+      "Borkovec, T.D. et al. (1983). Stimulus control treatment of worry. Behaviour Research and Therapy."
+    ]
+  },
+  "relatedTools": [
+    "decatastrophizing",
+    "cognitive-restructuring",
+    "thought-record"
+  ]
+}

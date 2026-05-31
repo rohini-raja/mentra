@@ -1,0 +1,72 @@
+{
+  "slug": "box-breathing",
+  "name": "Box Breathing",
+  "tagline": "Breathe in a square — equal counts of in, hold, out, hold.",
+  "origin": {
+    "psychologist": "US Navy SEALs / popularized by Mark Divine",
+    "tradition": "Breath training / Yogic pranayama",
+    "year": 2010,
+    "source": "Popularized in performance and military training; rooted in slow-breathing research"
+  },
+  "emotions": [
+    "anxiety",
+    "stress",
+    "restlessness",
+    "overwhelm"
+  ],
+  "situations": [
+    "Need to steady yourself before a challenge",
+    "Mind racing and you want focus",
+    "Pre-performance nerves",
+    "Winding down a stress response"
+  ],
+  "category": "Somatic",
+  "duration": "3–5 minutes",
+  "difficulty": "beginner",
+  "summary": "Box breathing uses four equal phases — inhale, hold, exhale, hold — usually for a count of four each, forming a 'box'. The steady rhythm slows your breathing and calms the nervous system while giving the mind a simple focus. It's widely used by athletes, first responders, and military for staying calm under pressure.",
+  "howItWorks": "Slowing the breath to around six cycles per minute increases heart-rate variability and engages the parasympathetic nervous system, which lowers physiological arousal. The equal, predictable structure also occupies attention, interrupting anxious rumination. The brief holds gently raise CO2 tolerance, which over time reduces the over-breathing that accompanies anxiety.",
+  "steps": [
+    {
+      "instruction": "Inhale through your nose for a count of 4."
+    },
+    {
+      "instruction": "Hold your breath for a count of 4."
+    },
+    {
+      "instruction": "Exhale through your mouth for a count of 4."
+    },
+    {
+      "instruction": "Hold empty for a count of 4, then repeat for several rounds.",
+      "mantra": "In, hold, out, hold."
+    }
+  ],
+  "whenToUse": [
+    "Before a high-pressure moment",
+    "When your mind is racing and you need to focus",
+    "To steady pre-performance nerves",
+    "Winding down from a stressful day"
+  ],
+  "whenNotToUse": [
+    "If breath-holding makes you lightheaded — shorten or skip the holds",
+    "During acute panic, try the physiological sigh first",
+    "With certain respiratory or cardiac conditions without medical advice"
+  ],
+  "tips": [
+    "Adjust the count to what's comfortable — 4 is a starting point",
+    "If holds feel hard, drop them and just slow the breath",
+    "A few minutes is plenty; consistency beats duration",
+    "Breathe low into the belly, not high in the chest"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Slow, paced breathing around six breaths per minute is supported by research for reducing stress and increasing heart-rate variability; box breathing is one such structured protocol.",
+    "citations": [
+      "Zaccaro, A. et al. (2018). How breath-control can change your life: a systematic review of slow breathing. Frontiers in Human Neuroscience."
+    ]
+  },
+  "relatedTools": [
+    "physiological-sigh",
+    "progressive-muscle-relaxation",
+    "5-4-3-2-1-grounding"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "5-4-3-2-1-grounding",
+  "name": "5-4-3-2-1 Grounding",
+  "tagline": "Anchor to the present through your five senses.",
+  "origin": {
+    "psychologist": "Developed across trauma therapy (multiple origins)",
+    "tradition": "Grounding / Trauma-informed care",
+    "year": 2000,
+    "source": "A widely used grounding technique in trauma and anxiety treatment"
+  },
+  "emotions": [
+    "anxiety",
+    "panic",
+    "dissociation",
+    "overwhelm"
+  ],
+  "situations": [
+    "Feeling spaced out or unreal",
+    "Anxiety pulling you out of the present",
+    "A panic attack building",
+    "Flooded by thoughts and need an anchor"
+  ],
+  "category": "Somatic",
+  "duration": "2–5 minutes",
+  "difficulty": "beginner",
+  "summary": "5-4-3-2-1 grounding walks you through your five senses — five things you can see, four you can hear, three you can touch, two you can smell, one you can taste. It pulls attention out of anxious thoughts and into the concrete present. It's especially useful for panic, dissociation, and feeling unreal.",
+  "howItWorks": "Anxiety and dissociation live in the imagined future or a remembered past; sensory grounding forcibly returns attention to the actual present, where you are safe. Naming specific sensory details engages the brain's perceptual systems and competes with the rumination loop for cognitive resources. The body registers the present-moment safety, which begins to settle the alarm response.",
+  "steps": [
+    {
+      "instruction": "Name 5 things you can see right now, slowly and specifically."
+    },
+    {
+      "instruction": "Name 4 things you can hear."
+    },
+    {
+      "instruction": "Name 3 things you can physically feel touching you."
+    },
+    {
+      "instruction": "Name 2 things you can smell, and 1 thing you can taste.",
+      "mantra": "I am here, now."
+    }
+  ],
+  "whenToUse": [
+    "When you feel spaced-out, unreal, or detached",
+    "As a panic attack builds",
+    "When anxious thoughts have hijacked attention",
+    "To re-anchor after a flashback or overwhelm"
+  ],
+  "whenNotToUse": [
+    "As the only response to ongoing trauma — seek support too",
+    "If focusing inward worsens distress, focus on external senses only",
+    "It manages the moment; it doesn't resolve the underlying cause"
+  ],
+  "tips": [
+    "Go slowly and be specific — 'the blue mug', not just 'a mug'",
+    "Say items aloud if you can; it deepens the effect",
+    "Combine with slow breathing for stronger grounding",
+    "Adapt the counts; the structure matters more than the numbers"
+  ],
+  "evidence": {
+    "level": "clinical",
+    "summary": "Grounding techniques are widely used and recommended in trauma-informed and anxiety care, though formal trials of this specific protocol are limited; it rests on well-supported attention and exposure principles.",
+    "citations": [
+      "Najavits, L.M. (2002). Seeking Safety: grounding techniques. Guilford Press."
+    ]
+  },
+  "relatedTools": [
+    "physiological-sigh",
+    "box-breathing",
+    "cold-water-face-immersion"
+  ],
+  "pairsWith": [
+    "physiological-sigh"
+  ]
+}

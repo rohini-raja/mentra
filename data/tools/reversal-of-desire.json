@@ -1,0 +1,80 @@
+{
+  "slug": "reversal-of-desire",
+  "name": "Reversal of Desire",
+  "tagline": "Face what you're avoiding by moving toward it instead of away from it.",
+  "origin": {
+    "psychologist": "Phil Stutz",
+    "tradition": "Existential / Integrative",
+    "year": 2012,
+    "source": "The Tools (Stutz & Michels, 2012)",
+    "sourceUrl": "https://www.thetoolsbook.com"
+  },
+  "emotions": [
+    "avoidance",
+    "fear",
+    "procrastination",
+    "resistance",
+    "anxiety"
+  ],
+  "situations": [
+    "About to do something you keep putting off",
+    "Feeling paralyzed before a difficult conversation",
+    "Resistance to starting something important",
+    "Fear of failure stopping you from acting"
+  ],
+  "category": "Motivational",
+  "duration": "2–5 minutes",
+  "difficulty": "beginner",
+  "summary": "The Reversal of Desire flips your instinctive response to pain. Instead of moving away from what's uncomfortable, you deliberately move toward it — and discover that pain shrinks when you face it directly. Stutz developed this tool after observing that his most resilient clients shared one trait: they didn't avoid pain, they ran at it.",
+  "howItWorks": "Pain avoidance is automatic — the brain treats emotional discomfort like physical danger and triggers withdrawal. This tool interrupts that response by making the movement toward pain conscious and deliberate. When you say 'bring it on' and mean it, you override the avoidance reflex. The mantra isn't decoration; it reorients your relationship with the discomfort from threat to challenge.",
+  "steps": [
+    {
+      "instruction": "See the pain you're avoiding as a cloud in front of you.",
+      "mantra": "Bring it on.",
+      "note": "The cloud externalizes the fear so you can relate to it rather than be consumed by it."
+    },
+    {
+      "instruction": "Move into the cloud. Don't stop. Keep moving forward through it.",
+      "mantra": "I love pain.",
+      "note": "You're not pretending to enjoy it. You're refusing to let it stop you."
+    },
+    {
+      "instruction": "Feel the cloud spit you out the other side, into bright light.",
+      "mantra": "Pain sets me free.",
+      "note": "This is the moment of release — the recognition that you survived it and it was smaller than it seemed."
+    }
+  ],
+  "whenToUse": [
+    "Right before doing something you've been avoiding",
+    "When fear or resistance appears before an action",
+    "When procrastination has lasted more than a day",
+    "When you're overthinking instead of doing"
+  ],
+  "whenNotToUse": [
+    "During an active panic attack — use a grounding tool first",
+    "For avoiding situations that are genuinely dangerous",
+    "When the pain signals a real boundary that should be respected"
+  ],
+  "tips": [
+    "Do it right before the action, not the night before — timing matters",
+    "The mantra works better spoken aloud, even quietly",
+    "If nothing shifts after step 3, you may need Active Love first — resentment blocks this tool",
+    "Use it for small avoided things daily to build the habit before the big ones"
+  ],
+  "evidence": {
+    "level": "clinical",
+    "summary": "Developed from decades of clinical practice. Aligns with acceptance-based approaches in ACT research, where moving toward rather than away from aversive experience is well supported.",
+    "citations": [
+      "Stutz, P. & Michels, B. (2012). The Tools. Spiegel & Grau.",
+      "Hayes, S.C. et al. (2006). Acceptance and commitment therapy. Behaviour Research and Therapy."
+    ]
+  },
+  "relatedTools": [
+    "active-love",
+    "physiological-sigh",
+    "committed-action"
+  ],
+  "pairsWith": [
+    "active-love"
+  ]
+}

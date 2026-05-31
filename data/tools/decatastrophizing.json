@@ -1,0 +1,73 @@
+{
+  "slug": "decatastrophizing",
+  "name": "Decatastrophizing",
+  "tagline": "Walk a fear all the way through to see it's survivable.",
+  "origin": {
+    "psychologist": "Albert Ellis",
+    "tradition": "Rational Emotive Behavior Therapy (REBT) / CBT",
+    "year": 1962,
+    "source": "Reason and Emotion in Psychotherapy (Ellis, 1962)"
+  },
+  "emotions": [
+    "anxiety",
+    "catastrophizing",
+    "dread",
+    "worry"
+  ],
+  "situations": [
+    "Spiraling into worst-case scenarios",
+    "'What if it all goes wrong?' on a loop",
+    "Dread about an upcoming event",
+    "A fear that feels too big to look at"
+  ],
+  "category": "Cognitive",
+  "duration": "10 minutes",
+  "difficulty": "beginner",
+  "summary": "Decatastrophizing asks 'and then what?' until the feared catastrophe is followed all the way to the end. Instead of stopping at the terrifying image, you examine how likely it is, how bad it would really be, and how you'd cope. Most catastrophes shrink when you actually look at them.",
+  "howItWorks": "Catastrophizing works by stopping at the worst image and treating it as both certain and unsurvivable. By continuing past that frozen frame — estimating real probability, distinguishing 'bad' from 'unbearable', and rehearsing how you would actually cope — you re-engage realistic appraisal. The fear loses its power not by being dismissed but by being fully examined.",
+  "steps": [
+    {
+      "instruction": "Name the catastrophe you're dreading, specifically."
+    },
+    {
+      "instruction": "Ask: realistically, how likely is this? What's the actual probability?"
+    },
+    {
+      "instruction": "Ask 'and then what?' — follow it through to what you'd actually do next."
+    },
+    {
+      "instruction": "Identify how you would cope and who could help, then re-rate the fear.",
+      "mantra": "Even if it happened, I could handle it."
+    }
+  ],
+  "whenToUse": [
+    "When you're spiraling into worst cases",
+    "Dread before an exam, flight, or hard event",
+    "When a fear feels too big to examine",
+    "To regain perspective on an unlikely outcome"
+  ],
+  "whenNotToUse": [
+    "When the feared outcome is likely and needs real planning",
+    "As a way to dismiss legitimate risks",
+    "In acute panic — calm the body first"
+  ],
+  "tips": [
+    "Estimate actual odds; we wildly overestimate catastrophe",
+    "Separate 'bad' from 'unbearable' — most fears are the former",
+    "Always end on a coping plan, not the fear",
+    "Write it out to keep the spiral from looping"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "Decatastrophizing is a standard CBT/REBT technique; cognitive techniques for worry and anxiety have strong meta-analytic support.",
+    "citations": [
+      "Ellis, A. (1962). Reason and Emotion in Psychotherapy. Lyle Stuart.",
+      "Hofmann, S.G. et al. (2012). The efficacy of CBT. Cognitive Therapy and Research."
+    ]
+  },
+  "relatedTools": [
+    "cognitive-restructuring",
+    "worry-time",
+    "thought-record"
+  ]
+}

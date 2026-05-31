@@ -1,0 +1,74 @@
+{
+  "slug": "self-compassion-break",
+  "name": "Self-Compassion Break",
+  "tagline": "Meet your own suffering the way you'd meet a friend's.",
+  "origin": {
+    "psychologist": "Kristin Neff",
+    "tradition": "Self-Compassion / Mindfulness",
+    "year": 2003,
+    "source": "Neff, K. (2003); Mindful Self-Compassion (Neff & Germer)"
+  },
+  "emotions": [
+    "self-criticism",
+    "shame",
+    "inadequacy",
+    "loneliness"
+  ],
+  "situations": [
+    "Beating yourself up after a mistake",
+    "Feeling like you're not enough",
+    "Shame after failing at something",
+    "Being your own harshest critic"
+  ],
+  "category": "Mindfulness",
+  "duration": "2–5 minutes",
+  "difficulty": "beginner",
+  "summary": "The Self-Compassion Break is a brief practice with three parts: acknowledging that this is a moment of suffering, remembering that suffering is part of being human, and offering yourself kindness. It's a deliberate alternative to the self-attack we default to when we're struggling. Neff's research shows self-compassion is more motivating, not less, than self-criticism.",
+  "howItWorks": "Self-criticism activates the body's threat system, flooding you with the very stress that undermines coping and motivation. Self-compassion instead engages the caregiving system associated with safety and soothing. The three components map onto Neff's model: mindfulness (acknowledging pain without exaggerating it), common humanity (you're not alone or uniquely flawed), and self-kindness (active warmth toward yourself), which together calm the threat response.",
+  "steps": [
+    {
+      "instruction": "Acknowledge the pain: 'This is a moment of suffering' or 'This is hard right now.'",
+      "mantra": "This is a moment of suffering."
+    },
+    {
+      "instruction": "Remember common humanity: 'Suffering is part of being human. I'm not alone in this.'"
+    },
+    {
+      "instruction": "Offer yourself kindness: place a hand on your heart and say something warm.",
+      "note": "'May I be kind to myself,' or whatever a good friend would say to you."
+    }
+  ],
+  "whenToUse": [
+    "When you're being harshly self-critical",
+    "After a failure or mistake",
+    "When shame or inadequacy flares",
+    "During any moment of personal struggle"
+  ],
+  "whenNotToUse": [
+    "As a way to avoid accountability where amends are due",
+    "If self-directed warmth triggers distress, start with neutral kindness",
+    "It complements, not replaces, treatment for deep shame or trauma"
+  ],
+  "tips": [
+    "A physical gesture (hand on heart) helps trigger the soothing response",
+    "Ask 'what would I say to a good friend?' and say that to yourself",
+    "Self-compassion motivates better than self-attack — it's not softness",
+    "Use the three steps as a quick check in hard moments"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Self-compassion interventions, including the Self-Compassion Break, are supported by a substantial and growing body of controlled research linking them to reduced anxiety, depression, and shame.",
+    "citations": [
+      "Neff, K.D. (2003). Self-compassion: an alternative conceptualization. Self and Identity.",
+      "Ferrari, M. et al. (2019). Self-compassion interventions: a meta-analysis. Mindfulness."
+    ]
+  },
+  "relatedTools": [
+    "rain",
+    "loving-kindness-meditation",
+    "grateful-flow"
+  ],
+  "pairsWith": [
+    "rain"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "progressive-muscle-relaxation",
+  "name": "Progressive Muscle Relaxation",
+  "tagline": "Tense and release each muscle group to let the body let go.",
+  "origin": {
+    "psychologist": "Edmund Jacobson",
+    "tradition": "Behavioral medicine / Relaxation training",
+    "year": 1929,
+    "source": "Progressive Relaxation (Jacobson, 1929)"
+  },
+  "emotions": [
+    "tension",
+    "stress",
+    "anxiety",
+    "restlessness"
+  ],
+  "situations": [
+    "Body wound tight with stress",
+    "Can't relax or wind down",
+    "Trouble falling asleep from tension",
+    "Carrying stress physically in shoulders or jaw"
+  ],
+  "category": "Somatic",
+  "duration": "10–20 minutes",
+  "difficulty": "beginner",
+  "summary": "Progressive Muscle Relaxation (PMR) involves deliberately tensing then releasing each muscle group in sequence, from feet to head. The contrast teaches your body what relaxation actually feels like and releases stored physical tension. It's one of the oldest and best-studied relaxation methods, and it doubles as a sleep aid.",
+  "howItWorks": "Chronic stress keeps muscles subtly contracted, which feeds back to the brain as ongoing threat. By tensing a muscle hard and then fully releasing, you produce a deeper relaxation than the muscle could reach on its own, and you train your awareness to notice and let go of tension. Lowering physical arousal this way calms the whole stress response and signals safety to the nervous system.",
+  "steps": [
+    {
+      "instruction": "Sit or lie down somewhere comfortable. Breathe slowly a few times."
+    },
+    {
+      "instruction": "Tense the first muscle group (e.g. feet) hard for about 5 seconds.",
+      "note": "Tense firmly but not to the point of pain or cramp."
+    },
+    {
+      "instruction": "Release suddenly and completely. Notice the warmth and looseness for 10–15 seconds."
+    },
+    {
+      "instruction": "Move up the body — calves, thighs, abdomen, hands, arms, shoulders, face — one group at a time.",
+      "mantra": "Tense… and let go."
+    }
+  ],
+  "whenToUse": [
+    "When stress is held physically in the body",
+    "To wind down before sleep",
+    "For generalized anxiety and restlessness",
+    "When you can't tell tense from relaxed anymore"
+  ],
+  "whenNotToUse": [
+    "Skip tensing any injured or painful muscle",
+    "With certain conditions (e.g. recent surgery) without medical advice",
+    "If muscle tensing triggers cramps, do a release-only version"
+  ],
+  "tips": [
+    "Keep the room quiet and dim",
+    "Exhale on the release for a deeper effect",
+    "A guided audio helps when you're learning",
+    "Practiced regularly, it becomes a fast tension-release tool"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "PMR is a well-established relaxation technique with meta-analytic support for reducing anxiety and stress across many populations.",
+    "citations": [
+      "Jacobson, E. (1929). Progressive Relaxation. University of Chicago Press.",
+      "Manzoni, G.M. et al. (2008). Relaxation training for anxiety: a meta-analysis. BMC Psychiatry."
+    ]
+  },
+  "relatedTools": [
+    "box-breathing",
+    "body-scan",
+    "physiological-sigh"
+  ]
+}

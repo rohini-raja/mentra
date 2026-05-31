@@ -1,0 +1,77 @@
+{
+  "slug": "letter-writing",
+  "name": "Letter Writing",
+  "tagline": "Write the words you can't say to put feelings into order.",
+  "origin": {
+    "psychologist": "Multiple origins; expressive writing studied by James Pennebaker",
+    "tradition": "Expressive Writing / Psychotherapy",
+    "year": 1986,
+    "source": "Pennebaker's expressive writing paradigm (1986) and grief/therapy traditions"
+  },
+  "emotions": [
+    "grief",
+    "anger",
+    "regret",
+    "unresolved-feelings"
+  ],
+  "situations": [
+    "Words left unsaid to someone",
+    "Carrying feelings you can't express directly",
+    "Processing a loss or an ending",
+    "Tangled emotions you want to make sense of"
+  ],
+  "category": "Existential",
+  "duration": "15–30 minutes",
+  "difficulty": "beginner",
+  "summary": "Letter writing is the simple, powerful practice of writing a letter you may never send — to someone who died, someone you can't talk to, your past or future self. The act of putting unspoken feelings into words helps organize and release them. Expressive writing has solid research support for improving emotional and even physical health.",
+  "howItWorks": "Unexpressed emotions and unfinished business stay diffuse and intrusive. Translating them into language forces the brain to structure the experience, which research suggests reduces its emotional load and helps integrate it into a coherent narrative. Whether or not the letter is sent, the writing does the work — giving form to feeling, completing what was left unsaid, and creating distance through reflection.",
+  "steps": [
+    {
+      "instruction": "Choose your recipient: a person, your past or future self, or even the situation itself."
+    },
+    {
+      "instruction": "Write freely and honestly — no editing, no audience, no rules.",
+      "note": "Spelling and structure don't matter; truth does."
+    },
+    {
+      "instruction": "Say everything left unsaid: the anger, love, regret, gratitude, questions."
+    },
+    {
+      "instruction": "Decide what to do with it — keep, burn, bury, or (rarely) send.",
+      "mantra": "Say what was left unsaid."
+    }
+  ],
+  "whenToUse": [
+    "When there are words you never got to say",
+    "Carrying feelings you can't express to the person directly",
+    "Processing a loss, breakup, or ending",
+    "To untangle a knot of mixed emotions"
+  ],
+  "whenNotToUse": [
+    "Don't send a raw letter in the heat of anger — wait and revisit",
+    "If revisiting trauma in writing overwhelms you, get support",
+    "When direct, safe conversation is genuinely possible and better"
+  ],
+  "tips": [
+    "Write for yourself first; sending is a separate, later decision",
+    "Don't censor — the unfiltered version is where the relief is",
+    "Several short letters over time can help more than one",
+    "Burning or keeping the letter can be its own meaningful ritual"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Expressive writing has been studied extensively since the 1980s, with controlled trials linking it to improved psychological and physical health outcomes.",
+    "citations": [
+      "Pennebaker, J.W. & Beall, S.K. (1986). Confronting a traumatic event. Journal of Abnormal Psychology.",
+      "Frattaroli, J. (2006). Experimental disclosure and its moderators: a meta-analysis. Psychological Bulletin."
+    ]
+  },
+  "relatedTools": [
+    "continuing-bonds",
+    "meaning-making",
+    "two-chair-technique"
+  ],
+  "pairsWith": [
+    "continuing-bonds"
+  ]
+}

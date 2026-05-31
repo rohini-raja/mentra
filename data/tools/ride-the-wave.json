@@ -1,0 +1,75 @@
+{
+  "slug": "ride-the-wave",
+  "name": "Ride the Wave",
+  "tagline": "Let an emotion rise, crest, and fall without acting on it.",
+  "origin": {
+    "psychologist": "Marsha Linehan",
+    "tradition": "Dialectical Behavior Therapy (DBT)",
+    "year": 1993,
+    "source": "DBT Skills Training — Mindfulness of Current Emotion (Linehan, 1993; 2015)"
+  },
+  "emotions": [
+    "intense-emotion",
+    "urge",
+    "craving",
+    "distress"
+  ],
+  "situations": [
+    "An emotion that feels unbearable and permanent",
+    "A craving or urge you don't want to act on",
+    "Wanting to escape a feeling right now",
+    "Believing the feeling will never end"
+  ],
+  "category": "Emotional Regulation",
+  "duration": "5–20 minutes",
+  "difficulty": "intermediate",
+  "summary": "Ride the Wave treats emotion like a wave: it builds, peaks, and recedes on its own if you don't fight it or feed it. Instead of suppressing or acting out, you observe the feeling in your body and let it run its course. The emotion you were sure would crush you passes.",
+  "howItWorks": "Emotions are time-limited physiological events; left alone, the neurochemical surge of even intense emotion subsides within minutes. We prolong them by resisting, ruminating, or acting on them. Mindful observation — noticing the emotion as a sensation rather than a command — lets the natural rise-and-fall happen and teaches the nervous system that the feeling is survivable and temporary.",
+  "steps": [
+    {
+      "instruction": "Notice the emotion and where you feel it in your body."
+    },
+    {
+      "instruction": "Name it without judgment: 'This is anger,' 'This is grief.'",
+      "mantra": "This is a wave. It will pass."
+    },
+    {
+      "instruction": "Stop fighting it. Don't suppress, don't act, just observe the sensations rising."
+    },
+    {
+      "instruction": "Stay with it as it crests and begins to fall. Notice it changing on its own."
+    }
+  ],
+  "whenToUse": [
+    "When an emotion feels unbearable but acting would harm",
+    "Riding out a craving or urge",
+    "When you believe a feeling will last forever",
+    "Building tolerance for difficult emotions over time"
+  ],
+  "whenNotToUse": [
+    "When the emotion signals real danger requiring action",
+    "If 'observing' slides into rumination — redirect to the body",
+    "During trauma flashbacks without grounding support"
+  ],
+  "tips": [
+    "Anchor attention in the body, not the story behind the feeling",
+    "Remind yourself emotions are time-limited",
+    "Breathe slowly while you observe",
+    "Each time you ride it out, the next wave is easier"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "Mindfulness of current emotion is a DBT skill rooted in well-supported mindfulness and acceptance research; DBT has strong meta-analytic backing.",
+    "citations": [
+      "Linehan, M.M. (2015). DBT Skills Training Manual, 2nd ed. Guilford Press."
+    ]
+  },
+  "relatedTools": [
+    "urge-surfing",
+    "rain",
+    "physiological-sigh"
+  ],
+  "pairsWith": [
+    "urge-surfing"
+  ]
+}

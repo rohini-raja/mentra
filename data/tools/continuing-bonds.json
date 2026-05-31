@@ -1,0 +1,75 @@
+{
+  "slug": "continuing-bonds",
+  "name": "Continuing Bonds",
+  "tagline": "Stay connected to someone you've lost instead of 'letting go'.",
+  "origin": {
+    "psychologist": "Dennis Klass & Phyllis Silverman",
+    "tradition": "Grief Studies",
+    "year": 1996,
+    "source": "Continuing Bonds: New Understandings of Grief (Klass, Silverman & Nickman, 1996)"
+  },
+  "emotions": [
+    "grief",
+    "loss",
+    "loneliness",
+    "longing"
+  ],
+  "situations": [
+    "Grieving someone who died",
+    "Pressured to 'move on' before you're ready",
+    "Missing a presence in your daily life",
+    "Wanting to honor a relationship that continues in memory"
+  ],
+  "category": "Existential",
+  "duration": "varies",
+  "difficulty": "beginner",
+  "summary": "Continuing Bonds reframes healthy grief: the goal isn't to sever your connection to the person who died but to transform it into one you can carry forward. You maintain an ongoing inner relationship — through memory, ritual, conversation, and values they gave you. This research-based view replaced older models that demanded 'closure' and 'letting go'.",
+  "howItWorks": "Older grief models treated detachment as the endpoint of mourning, but research found that bereaved people who maintain a transformed, ongoing bond often adjust as well or better. The connection doesn't keep you stuck; it provides comfort, continuity, and identity. Continuing Bonds lets the relationship change form — from external presence to internalized one — rather than ending, which fits how grief actually works for most people.",
+  "steps": [
+    {
+      "instruction": "Give yourself permission to keep the relationship, not end it."
+    },
+    {
+      "instruction": "Choose ways to stay connected: talk to them, keep an object, mark anniversaries, continue a shared ritual."
+    },
+    {
+      "instruction": "Carry forward something of theirs — a value, a phrase, a practice — into how you live.",
+      "mantra": "The bond changes; it doesn't break."
+    },
+    {
+      "instruction": "Let the connection evolve over time, allowing both grief and comfort to coexist."
+    }
+  ],
+  "whenToUse": [
+    "When grieving a death or major loss",
+    "When others pressure you to 'move on'",
+    "Missing someone's presence in daily life",
+    "Wanting to honor an ongoing inner relationship"
+  ],
+  "whenNotToUse": [
+    "If the bond keeps you from any present-day life or relationships",
+    "When it becomes avoidance of the reality of the loss",
+    "Alongside complicated or traumatic grief, seek professional support"
+  ],
+  "tips": [
+    "There's no timeline — grief isn't a problem to finish",
+    "Rituals and objects make the bond tangible",
+    "Talking to the person (aloud or in writing) is normal and healthy",
+    "Let the relationship keep changing as you do"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Continuing bonds is an established, research-supported model in contemporary grief studies, validated across cultures and bereavement research.",
+    "citations": [
+      "Klass, D., Silverman, P.R. & Nickman, S.L. (1996). Continuing Bonds. Taylor & Francis."
+    ]
+  },
+  "relatedTools": [
+    "letter-writing",
+    "meaning-making",
+    "rain"
+  ],
+  "pairsWith": [
+    "letter-writing"
+  ]
+}

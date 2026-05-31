@@ -1,0 +1,75 @@
+{
+  "slug": "behavioral-activation",
+  "name": "Behavioral Activation",
+  "tagline": "Act your way into feeling better — do the thing first, motivation follows.",
+  "origin": {
+    "psychologist": "Peter Lewinsohn",
+    "tradition": "Cognitive Behavioral Therapy (CBT)",
+    "year": 1974,
+    "source": "Lewinsohn's behavioral theory of depression (1974)"
+  },
+  "emotions": [
+    "depression",
+    "low-mood",
+    "numbness",
+    "hopelessness",
+    "withdrawal"
+  ],
+  "situations": [
+    "Stuck in bed or on the couch, energy gone",
+    "Withdrawn from things you used to enjoy",
+    "Waiting to feel better before doing anything",
+    "Low mood feeding on inactivity"
+  ],
+  "category": "Motivational",
+  "duration": "10–20 minutes",
+  "difficulty": "beginner",
+  "summary": "Behavioral Activation breaks the depression cycle where low mood leads to withdrawal, which deepens low mood. Instead of waiting to feel motivated, you schedule small, meaningful or pleasurable activities and do them regardless of mood. The action itself begins to lift the depression.",
+  "howItWorks": "Depression shrinks behavior: you do less, get less reward and contact with life, and feel worse — a self-reinforcing spiral. Behavioral activation reverses it by deliberately increasing contact with rewarding activities, restoring the natural sources of positive reinforcement. Crucially, action comes before motivation, not after, which is why it works when willpower alone fails.",
+  "steps": [
+    {
+      "instruction": "List a few small activities that once gave you pleasure or a sense of accomplishment."
+    },
+    {
+      "instruction": "Pick one tiny version you can do today — a 5-minute walk, one dish washed, a text to a friend."
+    },
+    {
+      "instruction": "Schedule it at a specific time rather than 'when I feel like it'.",
+      "note": "You will rarely feel like it. Do it anyway."
+    },
+    {
+      "instruction": "After, rate your mood 0–10. Notice that doing usually beats waiting.",
+      "mantra": "Action first, mood follows."
+    }
+  ],
+  "whenToUse": [
+    "When low mood has you doing less and less",
+    "When you've withdrawn from people and activities",
+    "When 'I'll do it when I feel better' keeps failing",
+    "Early in recovery from depression"
+  ],
+  "whenNotToUse": [
+    "As a replacement for professional care in severe depression",
+    "When activities are scheduled so ambitiously they guarantee failure",
+    "If used to push past genuine burnout without rest"
+  ],
+  "tips": [
+    "Start absurdly small — momentum matters more than scale",
+    "Schedule by time, not by mood",
+    "Mix in both pleasure and accomplishment activities",
+    "Track mood before and after to see the effect for yourself"
+  ],
+  "evidence": {
+    "level": "meta-analysis",
+    "summary": "Behavioral activation is an empirically supported, first-line treatment for depression, with meta-analyses showing effects comparable to cognitive therapy and antidepressants.",
+    "citations": [
+      "Cuijpers, P. et al. (2007). Behavioral activation for depression: a meta-analysis. Clinical Psychology Review.",
+      "Dimidjian, S. et al. (2006). Behavioral activation vs. cognitive therapy. JCCP."
+    ]
+  },
+  "relatedTools": [
+    "committed-action",
+    "implementation-intentions",
+    "self-compassion-break"
+  ]
+}

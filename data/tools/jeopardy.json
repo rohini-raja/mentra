@@ -1,0 +1,70 @@
+{
+  "slug": "jeopardy",
+  "name": "Jeopardy",
+  "tagline": "Picture your future self to break out of present-moment self-sabotage.",
+  "origin": {
+    "psychologist": "Phil Stutz",
+    "tradition": "Existential / Integrative",
+    "year": 2012,
+    "source": "The Tools (Stutz & Michels, 2012)",
+    "sourceUrl": "https://www.thetoolsbook.com"
+  },
+  "emotions": [
+    "procrastination",
+    "complacency",
+    "self-sabotage",
+    "low-willpower"
+  ],
+  "situations": [
+    "About to give in to a habit you're trying to break",
+    "Putting off something that matters for your future",
+    "Coasting when you know you should act",
+    "Losing motivation on a long-term goal"
+  ],
+  "category": "Motivational",
+  "duration": "1–2 minutes",
+  "difficulty": "beginner",
+  "summary": "Jeopardy confronts the part of you that assumes there will always be more time. You vividly imagine your future self looking back with regret at the chances you wasted — and let that urgency pull you into action now. It's a deliberate antidote to the comfortable illusion that you can start later.",
+  "howItWorks": "The present self and future self are psychologically distant — research on temporal discounting shows we treat our future selves almost like strangers, which is why long-term goals lose to short-term comfort. Jeopardy collapses that distance by making the future vivid and emotional, recruiting the loss-aversion that motivates us far more strongly than potential gains.",
+  "steps": [
+    {
+      "instruction": "Picture yourself at the end of your life, looking back at this exact moment of avoidance."
+    },
+    {
+      "instruction": "Feel that future self's grief at the time and potential you wasted by not acting.",
+      "mantra": "Don't waste this moment."
+    },
+    {
+      "instruction": "Let the urgency move you to take the smallest possible action right now."
+    }
+  ],
+  "whenToUse": [
+    "When you keep deferring something important to 'later'",
+    "When a bad habit is about to win again",
+    "When you've lost the sense that your choices matter",
+    "Paired after Reversal of Desire when avoidance returns"
+  ],
+  "whenNotToUse": [
+    "When you're already exhausted or burned out — rest is the right move",
+    "If it tips into harsh self-criticism rather than motivation",
+    "During acute anxiety, where future-focus fuels dread"
+  ],
+  "tips": [
+    "Keep the future image specific and personal, not abstract",
+    "Follow it immediately with one concrete action, however small",
+    "Use sparingly — its power comes from not overusing it"
+  ],
+  "evidence": {
+    "level": "clinical",
+    "summary": "A clinical practice tool consistent with research on temporal discounting and future-self continuity, where vividly connecting to one's future self increases long-term decision-making.",
+    "citations": [
+      "Stutz, P. & Michels, B. (2012). The Tools. Spiegel & Grau.",
+      "Hershfield, H.E. (2011). Future self-continuity. Annals of the NY Academy of Sciences."
+    ]
+  },
+  "relatedTools": [
+    "reversal-of-desire",
+    "implementation-intentions",
+    "committed-action"
+  ]
+}

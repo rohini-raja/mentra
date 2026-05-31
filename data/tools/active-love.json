@@ -1,0 +1,77 @@
+{
+  "slug": "active-love",
+  "name": "Active Love",
+  "tagline": "Dissolve resentment by generating love and sending it outward.",
+  "origin": {
+    "psychologist": "Phil Stutz",
+    "tradition": "Existential / Integrative",
+    "year": 2012,
+    "source": "The Tools (Stutz & Michels, 2012)",
+    "sourceUrl": "https://www.thetoolsbook.com"
+  },
+  "emotions": [
+    "anger",
+    "resentment",
+    "bitterness",
+    "grudge"
+  ],
+  "situations": [
+    "Replaying what someone did to you",
+    "Stuck in resentment you can't release",
+    "Anger that's hurting you more than them",
+    "Before a hard conversation with someone you resent"
+  ],
+  "category": "Relational",
+  "duration": "2–5 minutes",
+  "difficulty": "intermediate",
+  "summary": "Active Love is Stutz's antidote to the trap of resentment, where you keep mentally attacking someone who has wronged you while only poisoning yourself. You deliberately generate a feeling of boundless love and direct it at the very person you're angry at — not to excuse them, but to free yourself from the grip of the grudge.",
+  "howItWorks": "Resentment keeps you energetically tied to the person who hurt you, replaying the offense and prolonging your own suffering. Active Love interrupts the loop by replacing the outgoing flow of anger with an outgoing flow of love, which the mind cannot sustain alongside resentment. The point isn't the other person — it's reclaiming your own inner state and the energy the grudge was consuming.",
+  "steps": [
+    {
+      "instruction": "Picture your whole body surrounded by a warm, infinitely loving energy.",
+      "note": "Imagine a universe of love concentrating in your chest."
+    },
+    {
+      "instruction": "Feel that love gather in your heart until it's full."
+    },
+    {
+      "instruction": "Send all of it toward the person you resent, holding nothing back.",
+      "mantra": "I send you my love."
+    },
+    {
+      "instruction": "Feel the love return to you, and notice the resentment loosen."
+    }
+  ],
+  "whenToUse": [
+    "When resentment is looping and won't let go",
+    "Before a difficult conversation you're approaching with anger",
+    "When a grudge is costing you more than the other person",
+    "When anger is blocking another tool like Reversal of Desire"
+  ],
+  "whenNotToUse": [
+    "To bypass setting a needed boundary with someone harmful",
+    "In ongoing abuse — safety and distance come first",
+    "As pressure to 'forgive and forget' before you're ready"
+  ],
+  "tips": [
+    "This is for your freedom, not their absolution",
+    "Do it fully — generate real warmth, not a grudging gesture",
+    "Repeat whenever the resentment resurfaces",
+    "It pairs with, it doesn't replace, real boundaries"
+  ],
+  "evidence": {
+    "level": "clinical",
+    "summary": "A clinical-practice tool. Its aim overlaps with loving-kindness and forgiveness interventions, which have growing research support for reducing anger and improving well-being.",
+    "citations": [
+      "Stutz, P. & Michels, B. (2012). The Tools. Spiegel & Grau."
+    ]
+  },
+  "relatedTools": [
+    "reversal-of-desire",
+    "loving-kindness-meditation",
+    "nonviolent-communication"
+  ],
+  "pairsWith": [
+    "reversal-of-desire"
+  ]
+}

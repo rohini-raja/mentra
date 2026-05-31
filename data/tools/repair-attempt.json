@@ -1,0 +1,76 @@
+{
+  "slug": "repair-attempt",
+  "name": "Repair Attempt",
+  "tagline": "A small gesture to de-escalate a fight before it does damage.",
+  "origin": {
+    "psychologist": "John Gottman",
+    "tradition": "Relationship Science",
+    "year": 1999,
+    "source": "The Seven Principles for Making Marriage Work (Gottman & Silver, 1999)"
+  },
+  "emotions": [
+    "conflict",
+    "tension",
+    "frustration",
+    "hurt"
+  ],
+  "situations": [
+    "A fight escalating with your partner",
+    "Tension rising and you want to stop the slide",
+    "After saying something you regret",
+    "Wanting to reconnect mid-argument"
+  ],
+  "category": "Relational",
+  "duration": "1–5 minutes",
+  "difficulty": "beginner",
+  "summary": "A repair attempt is any statement or action that prevents conflict from escalating — a bit of humor, an apology, a softened tone, taking a break. Gottman's research found that the success of a relationship depends less on whether couples fight and more on whether their repair attempts land. It's a skill you can learn and offer on purpose.",
+  "howItWorks": "In conflict, partners can become physiologically flooded — heart racing, thinking narrowed — and at that point no productive conversation is possible. Repair attempts work by interrupting the escalation and signaling 'we're still on the same team', which lowers arousal enough to keep the connection intact. Equally important is receiving a partner's repair attempt rather than rejecting it in the heat of the moment.",
+  "steps": [
+    {
+      "instruction": "Notice the fight escalating and your own body flooding."
+    },
+    {
+      "instruction": "Offer a repair: soften your tone, take responsibility for your part, or use gentle humor.",
+      "note": "'Can we start over?' or 'I'm sorry, that came out harsh.'"
+    },
+    {
+      "instruction": "If flooded, propose a real break — at least 20 minutes to calm down — and a time to return.",
+      "mantra": "We're on the same team."
+    },
+    {
+      "instruction": "When your partner offers a repair, accept it instead of pressing the point."
+    }
+  ],
+  "whenToUse": [
+    "When an argument is escalating",
+    "After you've said something that landed badly",
+    "When you notice you or your partner flooding",
+    "To reconnect before resolving the actual issue"
+  ],
+  "whenNotToUse": [
+    "As a way to dodge a problem that genuinely needs addressing",
+    "In an abusive dynamic, where 'repair' can mask harm",
+    "To pressure a partner to drop a legitimate concern"
+  ],
+  "tips": [
+    "Take a real break if flooded — productive talk is impossible when activated",
+    "A successful repair depends on it being received, so accept your partner's too",
+    "Lead with your own part before the complaint",
+    "Keep a few go-to repair phrases ready"
+  ],
+  "evidence": {
+    "level": "peer-reviewed",
+    "summary": "Repair attempts emerge from Gottman's longitudinal observational research on couples, which links them to relationship stability.",
+    "citations": [
+      "Gottman, J.M. & Silver, N. (1999). The Seven Principles for Making Marriage Work. Crown."
+    ]
+  },
+  "relatedTools": [
+    "nonviolent-communication",
+    "dear-man",
+    "give"
+  ],
+  "pairsWith": [
+    "give"
+  ]
+}
