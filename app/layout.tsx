@@ -99,6 +99,17 @@ export default function RootLayout({
                 About &amp; credits
               </Link>
             </p>
+            <p className="mt-6 border-t border-border pt-6">
+              Built with care by{' '}
+              <a
+                href="https://www.linkedin.com/in/rohini-raja/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-medium text-accent underline underline-offset-2 hover:opacity-80"
+              >
+                Rohini
+              </a>
+            </p>
           </div>
         </footer>
       </body>
