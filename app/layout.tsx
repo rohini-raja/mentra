@@ -62,6 +62,12 @@ export default function RootLayout({
               <Link href="/about/" className="hover:text-accent">
                 About
               </Link>
+              <Link
+                href="/crisis/"
+                className="font-semibold text-accent hover:opacity-80"
+              >
+                Crisis support
+              </Link>
             </div>
           </nav>
         </header>
@@ -76,10 +82,19 @@ export default function RootLayout({
               These tools are for educational purposes and everyday emotional
               challenges. They are not a substitute for professional mental
               health care. If you are in crisis, call or text{' '}
-              <strong className="text-text">988</strong> (Suicide &amp; Crisis
-              Lifeline, US).
+              <strong className="text-text">988</strong> (US), or{' '}
+              <Link
+                href="/crisis/"
+                className="text-accent underline underline-offset-2 hover:opacity-80"
+              >
+                find a crisis line in your country
+              </Link>
+              .
             </p>
-            <p className="mt-4">
+            <p className="mt-4 flex flex-wrap gap-x-5 gap-y-2">
+              <Link href="/crisis/" className="text-accent hover:opacity-80">
+                Crisis support
+              </Link>
               <Link href="/about/" className="text-accent hover:opacity-80">
                 About &amp; credits
               </Link>

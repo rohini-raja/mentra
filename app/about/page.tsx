@@ -64,7 +64,16 @@ export default function AboutPage() {
           reason to consider talking to a professional &mdash; not a replacement
           for it.
         </p>
-        <p className="mt-3 prose-body text-muted">If you are in crisis:</p>
+        <p className="mt-3 prose-body text-muted">
+          If you are in crisis, see{' '}
+          <Link
+            href="/crisis/"
+            className="text-accent underline underline-offset-2 hover:opacity-80"
+          >
+            crisis support for your country
+          </Link>
+          . A few immediate options:
+        </p>
         <ul className="mt-2 space-y-1 prose-body text-muted">
           <li>
             <strong className="text-text">US:</strong> Call or text{' '}

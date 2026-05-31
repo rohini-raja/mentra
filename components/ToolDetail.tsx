@@ -146,9 +146,15 @@ export function ToolDetail({ tool }: { tool: Tool }) {
       <aside className="mt-8 rounded-xl border border-border bg-surface-2 p-5 text-sm leading-relaxed text-muted">
         These tools are for educational purposes and everyday emotional
         challenges. They are not a substitute for professional mental health
-        care. If you are in crisis, please contact a mental health professional
-        or call or text <strong className="text-text">988</strong> (Suicide
-        &amp; Crisis Lifeline, US).
+        care. If you are in crisis, please contact a mental health professional,
+        call or text <strong className="text-text">988</strong> (US), or{' '}
+        <Link
+          href="/crisis/"
+          className="text-accent underline underline-offset-2 hover:opacity-80"
+        >
+          find a crisis line in your country
+        </Link>
+        .
       </aside>
     </article>
   )

@@ -83,3 +83,16 @@ export interface CategoryInfo {
   description: string
   tradition: string
 }
+
+export interface Helpline {
+  country: string
+  code: string | null // ISO 3166-1 alpha-2, when known
+  lines: string[] // each entry is a crisis line / emergency number for that country
+}
+
+export interface HelplineData {
+  source: string
+  sourceUrl: string
+  retrieved: string
+  countries: Helpline[]
+}
